@@ -6,6 +6,9 @@ Proyek ini berisi analisis klastering mengenai pola penggunaan kendaraan bermoto
 # Tujuan Penelitian (Yasinta)
 
 # Data dan Variabel (Avin)
+<div align="center">
+  <img src="assets/images/Logo BPS.png" width="150" align="center">
+</div>
 
 # Metodologi (Joi)
 Proyek ini menggunakan dua pendekatan utama:
