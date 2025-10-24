@@ -3,4 +3,13 @@ Proyek ini berisi analisis klastering mengenai pola penggunaan kendaraan bermoto
 
 # Latar Belakang
 
-# Tujuan Proyek
+# Tujuan Penelitian
+
+# Data dan Variabel
+
+# Tim Penyusun
+* Joice Junansi Tandirerung (M0501251007)
+* Avin Rahmadian (M0501251023)
+* Charisma Yasintasya Kafilla (M0501251039)
+* Fransisca Juventini Mandas (M0501251045)
+* Baiq Wita Rachmatia (M0501251061)
