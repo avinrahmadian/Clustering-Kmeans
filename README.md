@@ -18,7 +18,11 @@ Proyek ini menggunakan dua pendekatan utama:
 2. Klastering K-Means : mengelompokkan daerah berdasarkan kesamaan karakteristik penggunaan kendaraan bermotor.
 
 # Manfaat Penelitian (Yasinta)
-
+<p align="center">
+  <img src="Image/Logo_Numerik.png" alt="Logo BPS" width="250">
+  <br>
+  <i>Badan Pusat Statistik (BPS)</i>
+</p>
 
 
 
