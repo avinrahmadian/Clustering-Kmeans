@@ -1,6 +1,6 @@
 # Klastering-Penggunaan-Kendaraan-Bermotor-di-Jawa-Barat-Menggunakan-Metode-K-Means
 <p align="center">
-  <img src="Image/Header_Presentation.jpg" width="250">
+  <img src="Image/Header_Presentation.jpg" width="1000">
   <br>
 </p>
 
