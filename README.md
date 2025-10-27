@@ -22,7 +22,7 @@ Proyek ini menggunakan dua pendekatan utama:
 1. Statistik Deskriptif : memberikan gambaran umum mengenai sebaran dan karakteristik data kendaraan bermotor.
 2. Klastering K-Means : mengelompokkan daerah berdasarkan kesamaan karakteristik penggunaan kendaraan bermotor.
 
-## Manfaat Penelitian (Yasinta)
+## 💎Manfaat Penelitian (Yasinta)
 
 
 
