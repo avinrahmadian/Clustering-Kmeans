@@ -12,7 +12,7 @@ Proyek ini berisi analisis klastering mengenai pola penggunaan kendaraan bermoto
   <i>Badan Pusat Statistik (BPS)</i>
 </p>
 
-## Metodologi (Joi)
+## ⚙️Metodologi (Joi)
 Proyek ini menggunakan dua pendekatan utama:
 1. Statistik Deskriptif : memberikan gambaran umum mengenai sebaran dan karakteristik data kendaraan bermotor.
 2. Klastering K-Means : mengelompokkan daerah berdasarkan kesamaan karakteristik penggunaan kendaraan bermotor.
@@ -21,7 +21,7 @@ Proyek ini menggunakan dua pendekatan utama:
 
 
 
-## Tim Penyusun
+## 🧑‍🤝‍🧑Tim Penyusun
 * Joice Junansi Tandirerung (M0501251007)
 * Avin Rahmadian (M0501251023)
 * Charisma Yasintasya Kafilla (M0501251039)
