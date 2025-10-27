@@ -3,9 +3,9 @@ Proyek ini berisi analisis klastering mengenai pola penggunaan kendaraan bermoto
 
 # 💡Latar Belakang (Yasinta)
 
-# 🎯 Tujuan Penelitian (Yasinta)
+## 🎯Tujuan Penelitian (Yasinta)
 
-# 📊 Data dan Variabel (Avin)
+# 📊Data dan Variabel (Avin)
 <p align="center">
   <img src="Image/Logo_BPS.png" alt="Logo BPS" width="250">
   <br>
