@@ -1,4 +1,9 @@
 # Klastering-Penggunaan-Kendaraan-Bermotor-di-Jawa-Barat-Menggunakan-Metode-K-Means
+<p align="center">
+  <img src="Image/Header_Presentation.png" alt="Logo BPS" width="250">
+  <br>
+</p>
+
 Proyek ini berisi analisis klastering mengenai pola penggunaan kendaraan bermotor di Provinsi Jawa Barat dengan menggunakan metode K-Means. Analisis dilakukan untuk mengelompokkan kabupaten/kota berdasarkan jenis dan jumlah kendaraan bermotor, sehingga dapat menggambarkan karakteristik wilayah dengan tingkat kepadatan kendaraan yang berbeda.
 
 ## 💡Latar Belakang (Yasinta)
