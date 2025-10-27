@@ -1,6 +1,6 @@
 # Klastering-Penggunaan-Kendaraan-Bermotor-di-Jawa-Barat-Menggunakan-Metode-K-Means
 <p align="center">
-  <img src="Image/Header_Presentation.png" alt="Logo BPS" width="250">
+  <img src="Image/Header_Presentation.png" width="250">
   <br>
 </p>
 
