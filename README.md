@@ -21,7 +21,7 @@ Proyek ini menggunakan dua pendekatan utama:
 
 
 
-## 🧑‍🤝‍🧑Tim Penyusun
+## 👥Tim Penyusun
 * Joice Junansi Tandirerung (M0501251007)
 * Avin Rahmadian (M0501251023)
 * Charisma Yasintasya Kafilla (M0501251039)
