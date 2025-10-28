@@ -16,12 +16,6 @@ eek
   <i>Open Data Jabar</i>
 </p>
 
-<p align="center">
-  <img src="Image/Logo_BPS.png" alt="Logo BPS" width="250">
-  <br>
-  <i>Badan Pusat Statistik (BPS)</i>
-</p>
-
 ## ⚙️Metodologi (Joi)
 Proyek ini menggunakan dua pendekatan utama:
 1. Statistik Deskriptif : memberikan gambaran umum mengenai sebaran dan karakteristik data kendaraan bermotor.
