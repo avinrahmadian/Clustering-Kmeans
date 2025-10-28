@@ -41,10 +41,20 @@ Proyek ini menggunakan dua pendekatan utama:
 
 ---
 
-* [Joice Junansi Tandirerung (M0501251007)](https://github.com/JoiceJunansi) 
+* [Joice Junansi Tandirerung](https://github.com/JoiceJunansi) (M0501251007) 
 * [Avin Rahmadian](https://github.com/avinrahmadian) (M0501251023)
 * [Charisma Yasintasya Kafilla](https://github.com/yasintasya) (M0501251039)
 * [Francisca Juventini Mandas](https://github.com/franciscajuventini09) (M0501251045)
 * [Baiq Wita Rachmatia](https://github.com/baiqwitaa) (M0501251061)
+
+# 👥 **Tim Penyusun**
+
+---
+
+* [Joice Junansi Tandirerung (M0501251007)](https://github.com/JoiceJunansi)  
+* [Avin Rahmadian (M0501251023)](https://github.com/avinrahmadian) 
+* [Charisma Yasintasya Kafilla (M0501251039)](https://github.com/yasintasya) 
+* [Francisca Juventini Mandas (M0501251045)](https://github.com/franciscajuventini09) 
+* [Baiq Wita Rachmatia (M0501251061)](https://github.com/baiqwitaa) 
 
 
