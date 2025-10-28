@@ -3,6 +3,10 @@
   <br>
 </p>
 
+### 💡Pendahuluan
+
+--
+
 Proyek ini berisi analisis klastering mengenai pola penggunaan kendaraan bermotor di Provinsi Jawa Barat dengan menggunakan metode K-Means. Analisis dilakukan untuk mengelompokkan kabupaten/kota berdasarkan jenis dan jumlah kendaraan bermotor, sehingga dapat menggambarkan karakteristik wilayah dengan tingkat kepadatan kendaraan yang berbeda.
 eek
 ## 💡Latar Belakang (Yasinta)
