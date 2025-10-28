@@ -7,8 +7,8 @@
 
 ---
 
-Proyek ini berisi analisis klastering mengenai pola penggunaan kendaraan bermotor di Provinsi Jawa Barat dengan menggunakan metode K-Means. Analisis dilakukan untuk mengelompokkan kabupaten/kota berdasarkan jenis dan jumlah kendaraan bermotor, sehingga dapat menggambarkan karakteristik wilayah dengan tingkat kepadatan kendaraan yang berbeda.
-eek
+Proyek ini bertujuan untuk menganalisis tingkat kemiskinan di Indonesia periode 2019–2024 menggunakan metode K-Means. Analisis ini dilakukan untuk mengelompokkan provinsi berdasarkan kesamaan tingkat kemiskinan, sehingga dapat menggambarkan pola dan perbedaan kondisi sosial ekonomi antar wilayah.
+
 ## 💡Latar Belakang (Yasinta)
 
 ## 🎯Tujuan Penelitian (Yasinta)
