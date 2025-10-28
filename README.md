@@ -16,6 +16,12 @@ eek
   <i>Open Data Jabar</i>
 </p>
 
+<div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
+  <img src="Image/Logo_ODJ.png" alt="Open Data Jabar" width="120"><br>
+  <span style="color:white; font-weight:bold; font-size:16px;">Open Data Jabar</span>
+</div>
+
+
 ## ⚙️Metodologi (Joi)
 Proyek ini menggunakan dua pendekatan utama:
 1. Statistik Deskriptif : memberikan gambaran umum mengenai sebaran dan karakteristik data kendaraan bermotor.
