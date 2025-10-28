@@ -11,6 +11,12 @@ eek
 
 ## 📊Data dan Variabel (Avin)
 <p align="center">
+  <img src="Image/Logo_ODJabar.jpg" alt="Logo Open Data Jabar" width="250">
+  <br>
+  <i>Open Data Jabar</i>
+</p>
+
+<p align="center">
   <img src="Image/Logo_BPS.png" alt="Logo BPS" width="250">
   <br>
   <i>Badan Pusat Statistik (BPS)</i>
