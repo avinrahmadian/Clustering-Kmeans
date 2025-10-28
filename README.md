@@ -10,12 +10,6 @@ eek
 ## 🎯Tujuan Penelitian (Yasinta)
 
 ## 📊Data dan Variabel (Avin)
-<p align="center">
-  <img src="Image/Logo_ODJ.png" alt="Logo Open Data Jabar" width="250">
-  <br>
-  <i>Open Data Jabar</i>
-</p>
-
 <div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
   <img src="Image/Logo_ODJ.png" alt="Open Data Jabar" width="250"><br>
   <span style="color:white; font-weight:bold; font-size:16px;">Open Data Jabar</span>
