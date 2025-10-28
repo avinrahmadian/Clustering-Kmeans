@@ -11,7 +11,7 @@ eek
 
 ## 📊Data dan Variabel (Avin)
 <p align="center">
-  <img src="Image/Logo_ODJ.jpg" alt="Logo Open Data Jabar" width="250">
+  <img src="Image/Logo_ODJ.png" alt="Logo Open Data Jabar" width="250">
   <br>
   <i>Open Data Jabar</i>
 </p>
