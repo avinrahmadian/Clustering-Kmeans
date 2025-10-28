@@ -42,7 +42,7 @@ Proyek ini menggunakan dua pendekatan utama:
 ---
 
 * Joice Junansi Tandirerung (M0501251007)
-* Avin Rahmadian (M0501251023)
+* [Avin Rahmadian](https://github.com/avinrahmadian) (M0501251023)
 * Charisma Yasintasya Kafilla (M0501251039)
 * Francisca Juventini Mandas (M0501251045)
 * [Baiq Wita Rachmatia](https://github.com/baiqwitaa/) (M0501251061)
