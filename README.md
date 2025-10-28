@@ -45,4 +45,4 @@ Proyek ini menggunakan dua pendekatan utama:
 * Avin Rahmadian (M0501251023)
 * Charisma Yasintasya Kafilla (M0501251039)
 * Francisca Juventini Mandas (M0501251045)
-* Baiq Wita Rachmatia (M0501251061)
+* [Baiq Wita Rachmatia](https://github.com/baiqwitaa/) (M0501251061)
