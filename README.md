@@ -47,13 +47,4 @@ Proyek ini menggunakan dua pendekatan utama:
 * [Francisca Juventini Mandas](https://github.com/franciscajuventini09) (M0501251045)
 * [Baiq Wita Rachmatia](https://github.com/baiqwitaa) (M0501251061)
 
-  <h3>👥 Tim Penyusun</h3>
-
-<ul>
-  <li><a href="https://github.com/joicejt" style="text-decoration:none; color:#58a6ff;">Joice Junansi Tandirerung</a> (M0501251007)</li>
-  <li><a href="https://github.com/avinrahmadian" style="text-decoration:none; color:#58a6ff;">Avin Rahmadian</a> (M0501251023)</li>
-  <li><a href="https://github.com/charismakafilla" style="text-decoration:none; color:#58a6ff;">Charisma Yasintasya Kafilla</a> (M0501251039)</li>
-  <li><a href="https://github.com/francisca-juventini" style="text-decoration:none; color:#58a6ff;">Francisca Juventini Mandas</a> (M0501251045)</li>
-  <li><a href="https://github.com/baiqwita" style="text-decoration:none; color:#58a6ff;">Baiq Wita Rachmatia</a> (M0501251061)</li>
-</ul>
 
