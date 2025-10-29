@@ -27,14 +27,19 @@ Proyek ini bertujuan untuk menganalisis tingkat kemiskinan di Indonesia periode 
 
 ### 💾 Cuplikan Data
 
-id,kode_provinsi,nama_provinsi,persentase_penduduk_miskin,tahun
-1,11,ACEH,15.32,2019
-2,12,SUMATERA UTARA,8.83,2019
-3,13,SUMATERA BARAT,6.42,2019
-...
-226,95,PAPUA SELATAN,17.44,2024
-227,96,PAPUA TENGAH,29.76,2024
-228,97,PAPUA PEGUNUNGAN,32.97,2024
+| id | kode_provinsi | nama_provinsi         | persentase_penduduk_miskin | tahun |
+|----|----------------|-----------------------|-----------------------------|--------|
+| 1  | 11             | ACEH                  | 15.32                       | 2019   |
+| 2  | 12             | SUMATERA UTARA        | 8.83                        | 2019   |
+| 3  | 13             | SUMATERA BARAT        | 6.42                        | 2019   |
+| 4  | 14             | RIAU                  | 7.08                        | 2019   |
+| 5  | 15             | JAMBI                 | 7.60                        | 2019   |
+| …  | …              | …                     | …                           | …      |
+| 224| 92             | PAPUA BARAT DAYA      | 18.13                       | 2024   |
+| 225| 94             | PAPUA                 | 17.26                       | 2024   |
+| 226| 95             | PAPUA SELATAN         | 17.44                       | 2024   |
+| 227| 96             | PAPUA TENGAH          | 29.76                       | 2024   |
+| 228| 97             | PAPUA PEGUNUNGAN      | 32.97                       | 2024   |
 
 # ⚙️ **Metodologi (Joi)**
 
