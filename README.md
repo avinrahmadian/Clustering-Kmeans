@@ -25,6 +25,18 @@ Proyek ini bertujuan untuk menganalisis tingkat kemiskinan di Indonesia periode 
 | Pra & Saat COVID-19   | 2019–2021  | Mencerminkan dampak awal hingga puncak pandemi       |
 | Pasca COVID-19        | 2022–2024  | Mencerminkan proses pemulihan ekonomi                |
 
+### 💾 Cuplikan Data
+
+```csv
+id,kode_provinsi,nama_provinsi,persentase_penduduk_miskin,tahun
+1,11,ACEH,15.32,2019
+2,12,SUMATERA UTARA,8.83,2019
+3,13,SUMATERA BARAT,6.42,2019
+...
+226,95,PAPUA SELATAN,17.44,2024
+227,96,PAPUA TENGAH,29.76,2024
+228,97,PAPUA PEGUNUNGAN,32.97,2024
+
 # ⚙️ **Metodologi (Joi)**
 
 Proyek ini menggunakan dua pendekatan utama:
