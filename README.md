@@ -3,13 +3,11 @@
   <br>
 </p>
 
-# 📖 Pendahuluan
-
 # 📖 **Pendahuluan**
 
 Proyek ini bertujuan untuk menganalisis tingkat kemiskinan di Indonesia periode 2019 - 2024 menggunakan metode K-Means. Analisis ini dilakukan untuk mengelompokkan provinsi berdasarkan kesamaan tingkat kemiskinan, sehingga dapat menggambarkan pola dan perbedaan kondisi sosial ekonomi antar wilayah.
 
-# 💡 **Latar Belakang (Yasinta)**
+## 💡 **Latar Belakang (Yasinta)**
 
 # 🎯 **Tujuan Penelitian (Yasinta)**
 
