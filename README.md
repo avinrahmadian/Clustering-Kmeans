@@ -25,7 +25,7 @@ Proyek ini bertujuan untuk menganalisis tingkat kemiskinan di Indonesia periode 
 | Pra & Saat COVID-19   | 2019–2021  | Mencerminkan dampak awal hingga puncak pandemi       |
 | Pasca COVID-19        | 2022–2024  | Mencerminkan proses pemulihan ekonomi                |
 
-### 💾 Cuplikan Data
+###  Cuplikan Data
 
 | id | kode_provinsi | nama_provinsi         | persentase_penduduk_miskin | tahun |
 |----|----------------|-----------------------|-----------------------------|--------|
