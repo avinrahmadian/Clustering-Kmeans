@@ -17,7 +17,8 @@ Proyek ini bertujuan untuk menganalisis tingkat kemiskinan di Indonesia periode 
   <img src="Image/Logo_ODJ.png" alt="Open Data Jabar" width="250"><br>
   <span style="color:white; font-weight:bold; font-size:16px;">Open Data Jabar</span>
 </div>
-
+  <br>
+</p>
 
 | Periode               | Tahun      | Keterangan                                           |
 |:----------------------|:----------:|------------------------------------------------------|
