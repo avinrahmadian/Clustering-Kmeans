@@ -27,7 +27,6 @@ Proyek ini bertujuan untuk menganalisis tingkat kemiskinan di Indonesia periode 
 
 ### 💾 Cuplikan Data
 
-```csv
 id,kode_provinsi,nama_provinsi,persentase_penduduk_miskin,tahun
 1,11,ACEH,15.32,2019
 2,12,SUMATERA UTARA,8.83,2019
