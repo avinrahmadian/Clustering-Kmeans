@@ -18,6 +18,10 @@ Proyek ini bertujuan untuk menganalisis tingkat kemiskinan di Indonesia periode 
   <span style="color:white; font-weight:bold; font-size:16px;">Open Data Jabar</span>
 </div>
 
+| Periode               | Tahun      | Keterangan                                           |
+|-----------------------|------------|------------------------------------------------------|
+| Pra & Saat COVID-19   | 2019–2021  | Mencerminkan dampak awal hingga puncak pandemi       |
+| Pasca COVID-19        | 2022–2024  | Mencerminkan proses pemulihan ekonomi                |
 
 # ⚙️ **Metodologi (Joi)**
 
