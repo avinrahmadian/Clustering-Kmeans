@@ -48,7 +48,7 @@ Proyek ini menggunakan dua pendekatan utama:
 2. Klastering K-Means : mengelompokkan provinsi dengan pola kemiskinan yang mirip untuk melihat kesamaan kondisi ekonomi antar wilayah.
 
 # 🎨 **Visualisasi**
-1. Peta Daerah klastering (Avin)
+1. Peta Klasterisasi Tingkat Kemiskinan Provinsi di Indonesia (Avin)
 <div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
   <img src="Image/Peta_2021.png" width="1000" height="500"><br>
 </div>
