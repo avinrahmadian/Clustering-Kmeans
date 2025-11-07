@@ -38,8 +38,8 @@ Proyek ini bertujuan untuk menganalisis tingkat kemiskinan di Indonesia periode 
 
 | Periode               | Tahun      | Keterangan                                           |
 |:----------------------|:----------:|------------------------------------------------------|
-| Pra & Pandemi COVID-19   | 2019–2021  | Mencerminkan dampak awal hingga puncak pandemi       |
-| Pasca COVID-19        | 2022–2024  | Mencerminkan proses pemulihan ekonomi                |
+| Pra & Pandemi COVID-19   | 2019 – 2021  | Mencerminkan dampak awal hingga puncak pandemi       |
+| Pasca COVID-19        | 2022 – 2024  | Mencerminkan proses pemulihan ekonomi                |
 
 # ⚙️ **Metodologi (Joi)**
 
