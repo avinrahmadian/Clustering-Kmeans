@@ -48,9 +48,10 @@ Proyek ini menggunakan dua pendekatan utama:
 2. Klastering K-Means : mengelompokkan daerah berdasarkan kesamaan karakteristik penggunaan kendaraan bermotor.
 
 # Visualisasi
-1. Peta Daerah klastering
+1. Peta Daerah klastering 
 2. Trend Data rata rata pertahun (line chart)
 3. Provinsi 10 tertinggi dan 10 terendah (Covid dan pasca covid) (Bar Chart)
+4. 
 
 # 💎 **Manfaat Penelitian (Yasinta)**
 
