@@ -52,6 +52,9 @@ Proyek ini menggunakan dua pendekatan utama:
 2. Trend Data rata rata pertahun (line chart)
 3. Provinsi 10 tertinggi dan 10 terendah (Covid) (Bar Chart)
 4. Provinsi 10 tertinggi dan 10 terendah (Pasca Covid) (Bar Chart)
+5. Distribusi Data dari Cluster Gabungan (Density Plot)
+6. Distribusi Data dari Cluster Covid (Density Plot)
+7. Distribusi Data dari Cluster Pasca Covid (Density Plot)
 
 # 💎 **Manfaat Penelitian (Yasinta)**
 
