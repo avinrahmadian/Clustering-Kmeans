@@ -47,6 +47,11 @@ Proyek ini menggunakan dua pendekatan utama:
 1. Statistik Deskriptif : memberikan gambaran umum mengenai sebaran dan karakteristik data kendaraan bermotor.
 2. Klastering K-Means : mengelompokkan daerah berdasarkan kesamaan karakteristik penggunaan kendaraan bermotor.
 
+# Visualisasi
+1. Peta Daerah klastering
+2. Trend Data rata rata pertahun (line chart)
+3. Provinsi 10 tertinggi dan 10 terendah (Covid dan pasca covid) (Bar Chart)
+
 # 💎 **Manfaat Penelitian (Yasinta)**
 
 # 👥 **Tim Penyusun**
