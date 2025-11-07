@@ -57,7 +57,7 @@ Proyek ini menggunakan dua pendekatan utama:
 
 <div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
   <img src="Image/2021.png" width="1000" height="500"><br>
-  <span style="color:white; font-weight:bold; font-size:16px;">Gambar 1. Peta Klasterisasi Pra & Saat Covid-19</span>
+  <span style="color:white; font-weight:bold; font-size:16px;">Gambar 1. Peta Klasterisasi Pra & Pandemi Covid-19</span>
 </div>
   <br>
 </p>
