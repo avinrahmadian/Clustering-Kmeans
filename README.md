@@ -60,6 +60,12 @@ Proyek ini menggunakan dua pendekatan utama:
 </div>
   <br>
 </p>
+
+<div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
+  <img src="Image/2024.png" width="1000" height="500"><br>
+</div>
+  <br>
+</p>
    
 2. Trend Data rata rata pertahun (line chart) (Joy)
 3. Provinsi 10 tertinggi dan 10 terendah (Covid) (Bar Chart) (Wita)
