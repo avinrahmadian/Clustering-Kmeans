@@ -48,7 +48,7 @@ Proyek ini menggunakan dua pendekatan utama:
 2. Klastering K-Means : mengelompokkan provinsi dengan pola kemiskinan yang mirip untuk melihat kesamaan kondisi ekonomi antar wilayah.
 
 # 🎨 **Visualisasi**
-1. Peta Klasterisasi Tingkat Kemiskinan Provinsi di Indonesia (Avin)
+### 1. Peta Klasterisasi Tingkat Kemiskinan Provinsi di Indonesia (Avin)
 <div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
   <img src="Image/Peta_2021.png" width="1000" height="500"><br>
 </div>
@@ -69,12 +69,12 @@ Proyek ini menggunakan dua pendekatan utama:
   <br>
 </p>
    
-2. Trend Data rata rata pertahun (line chart) (Joy)
-3. Provinsi 10 tertinggi dan 10 terendah (Covid) (Bar Chart) (Wita)
-4. Provinsi 10 tertinggi dan 10 terendah (Pasca Covid) (Bar Chart) (Sisca)
-5. Distribusi Data Berdasarkan Cluster Gabungan (Density Plot) (sisca)
-6. Distribusi Data Berdasarkan Cluster Covid (Density Plot) (Joy)
-7. Distribusi Data Berdasarkan Cluster Pasca Covid (Density Plot) (Wita)
+### 2. Trend Data rata rata pertahun (line chart) (Joy)
+### 3. Provinsi 10 tertinggi dan 10 terendah (Covid) (Bar Chart) (Wita)
+### 4. Provinsi 10 tertinggi dan 10 terendah (Pasca Covid) (Bar Chart) (Sisca)
+### 5. Distribusi Data Berdasarkan Cluster Gabungan (Density Plot) (sisca)
+### 6. Distribusi Data Berdasarkan Cluster Covid (Density Plot) (Joy)
+### 7. Distribusi Data Berdasarkan Cluster Pasca Covid (Density Plot) (Wita)
 
 # 💎 **Manfaat Penelitian (Yasinta)**
 
