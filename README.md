@@ -50,8 +50,8 @@ Proyek ini menggunakan dua pendekatan utama:
 # Visualisasi
 1. Peta Daerah klastering 
 2. Trend Data rata rata pertahun (line chart)
-3. Provinsi 10 tertinggi dan 10 terendah (Covid dan pasca covid) (Bar Chart)
-4. 
+3. Provinsi 10 tertinggi dan 10 terendah (Covid) (Bar Chart)
+4. Provinsi 10 tertinggi dan 10 terendah (Pasca Covid) (Bar Chart)
 
 # 💎 **Manfaat Penelitian (Yasinta)**
 
