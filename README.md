@@ -20,11 +20,6 @@ Proyek ini bertujuan untuk menganalisis tingkat kemiskinan di Indonesia periode 
   <br>
 </p>
 
-| Periode               | Tahun      | Keterangan                                           |
-|:----------------------|:----------:|------------------------------------------------------|
-| Pra & Saat COVID-19   | 2019–2021  | Mencerminkan dampak awal hingga puncak pandemi       |
-| Pasca COVID-19        | 2022–2024  | Mencerminkan proses pemulihan ekonomi                |
-
 ###  Cuplikan Data
 
 | id | kode_provinsi | nama_provinsi         | persentase_penduduk_miskin | tahun |
@@ -40,6 +35,11 @@ Proyek ini bertujuan untuk menganalisis tingkat kemiskinan di Indonesia periode 
 | 226| 95             | PAPUA SELATAN         | 17.44                       | 2024   |
 | 227| 96             | PAPUA TENGAH          | 29.76                       | 2024   |
 | 228| 97             | PAPUA PEGUNUNGAN      | 32.97                       | 2024   |
+
+| Periode               | Tahun      | Keterangan                                           |
+|:----------------------|:----------:|------------------------------------------------------|
+| Pra & Saat COVID-19   | 2019–2021  | Mencerminkan dampak awal hingga puncak pandemi       |
+| Pasca COVID-19        | 2022–2024  | Mencerminkan proses pemulihan ekonomi                |
 
 # ⚙️ **Metodologi (Joi)**
 
