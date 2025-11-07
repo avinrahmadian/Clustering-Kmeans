@@ -44,8 +44,8 @@ Proyek ini bertujuan untuk menganalisis tingkat kemiskinan di Indonesia periode 
 # ⚙️ **Metodologi (Joi)**
 
 Proyek ini menggunakan dua pendekatan utama:
-1. Statistik Deskriptif : memberikan gambaran umum mengenai sebaran dan karakteristik data kendaraan bermotor.
-2. Klastering K-Means : mengelompokkan daerah berdasarkan kesamaan karakteristik penggunaan kendaraan bermotor.
+1. Statistik Deskriptif : menggambarkan sebaran dan tren tingkat kemiskinan provinsi di Indonesia pada periode 2019–2024.
+2. Klastering K-Means : mengelompokkan provinsi dengan pola kemiskinan yang mirip untuk melihat kesamaan kondisi ekonomi antar wilayah.
 
 # Visualisasi
 1. Peta Daerah klastering (Avin)
