@@ -49,6 +49,13 @@ Proyek ini menggunakan dua pendekatan utama:
 
 # Visualisasi
 1. Peta Daerah klastering (Avin)
+<div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
+  <img src="Image/Peta_2021.png" alt="Open Data Jabar" width="250"><br>
+  <span style="color:white; font-weight:bold; font-size:16px;">Open Data Jabar</span>
+</div>
+  <br>
+</p>
+   
 2. Trend Data rata rata pertahun (line chart) (Joy)
 3. Provinsi 10 tertinggi dan 10 terendah (Covid) (Bar Chart) (Wita)
 4. Provinsi 10 tertinggi dan 10 terendah (Pasca Covid) (Bar Chart) (Sisca)
