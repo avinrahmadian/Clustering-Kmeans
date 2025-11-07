@@ -50,7 +50,19 @@ Proyek ini menggunakan dua pendekatan utama:
 # Visualisasi
 1. Peta Daerah klastering (Avin)
 <div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
-  <img src="Image/Peta_2021.png" alt="Open Data Jabar" width="1000" height="500"><br>
+  <img src="Image/Peta_2021.png" width="1000" height="500"><br>
+</div>
+  <br>
+</p>
+
+<div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
+  <img src="Image/Petaa_2021.png" width="1000" height="500"><br>
+</div>
+  <br>
+</p>
+
+<div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
+  <img src="Image/2021.png" width="1000" height="500"><br>
 </div>
   <br>
 </p>
