@@ -76,6 +76,12 @@ Proyek ini menggunakan dua pendekatan utama:
 ### 5. Distribusi Data Berdasarkan Cluster Gabungan (Density Plot) (sisca)
 ### 6. Distribusi Data Berdasarkan Cluster Covid (Density Plot) (Joy)
 ### 7. Distribusi Data Berdasarkan Cluster Pasca Covid (Density Plot) (Wita)
+<div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
+  <img src="Image/density pasca covid.png" width="1000" height="500"><br>
+  <span style="color:white; font-weight:bold; font-size:16px;">Gambar gatau cobain dlu. Density Plot Pasca Covid</span>
+</div>
+  <br>
+</p>
 
 # 💎 **Manfaat Penelitian (Yasinta)**
 
