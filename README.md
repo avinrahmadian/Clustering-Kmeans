@@ -75,11 +75,11 @@ Proyek ini menggunakan dua pendekatan utama:
 
 ### Tabel Hasil Klasterisasi Provinsi Pasca Covid-19
 
-| Cluster | Nama Provinsi |
-|:-------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **1 (Tinggi)** | Nusa Tenggara Timur, Papua Barat, Papua |
-| **2 (Menengah)** | Sumatera Utara, Sumatera Barat, Riau, Jambi, Bangka Belitung, Kepulauan Riau, Jakarta Raya, Jawa Barat, Banten, Bali, Kalimantan Barat, Kalimantan Tengah, Kalimantan Selatan, Kalimantan Timur, Kalimantan Utara, Sulawesi Utara, Sulawesi Selatan |
-| **3 (Rendah)** | Aceh, Bengkulu, Nusa Tenggara Barat, Gorontalo, Maluku, Sumatera Selatan, Lampung, Jawa Tengah, Yogyakarta, Jawa Timur, Sulawesi Tengah, Sulawesi Tenggara, Sulawesi Barat |
+| Cluster | Kriteria | Nama Provinsi |
+|:-------:|:-------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **1** | **(Tinggi)** | Nusa Tenggara Timur, Papua Barat, Papua |
+| **2** | **(Menengah)** | Sumatera Utara, Sumatera Barat, Riau, Jambi, Bangka Belitung, Kepulauan Riau, Jakarta Raya, Jawa Barat, Banten, Bali, Kalimantan Barat, Kalimantan Tengah, Kalimantan Selatan, Kalimantan Timur, Kalimantan Utara, Sulawesi Utara, Sulawesi Selatan |
+| **3** | **(Rendah)** | Aceh, Bengkulu, Nusa Tenggara Barat, Gorontalo, Maluku, Sumatera Selatan, Lampung, Jawa Tengah, Yogyakarta, Jawa Timur, Sulawesi Tengah, Sulawesi Tenggara, Sulawesi Barat |
 
    
 ### 2. Trend Data rata rata pertahun (line chart) (Joy)
