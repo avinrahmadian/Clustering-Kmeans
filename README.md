@@ -56,6 +56,16 @@ Proyek ini menggunakan dua pendekatan utama:
   <br>
 </p>
 
+### 📊 Tabel Hasil Klasterisasi Provinsi Indonesia
+
+| Cluster | Nama Provinsi |
+|:-------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **2** | Bangka Belitung, Kepulauan Riau, DKI, Banten, Bali, Kalimantan Tengah, Kalimantan Selatan, Kalimantan Timur |
+| **3** | Sumatera Utara, Sumatera Barat, Riau, Jambi, Jawa Barat, Kalimantan Barat, Kalimantan Utara, Sulawesi Utara, Sulawesi Selatan, Maluku Utara |
+| **4** | Aceh, Bengkulu, Nusa Tenggara Barat, Gorontalo, Maluku |
+| **5** | Nusa Tenggara Timur, Papua Barat, Papua |
+| **6** | Sumatera Selatan, Lampung, Jawa Tengah, Yogyakarta, Jawa Timur, Sulawesi Tengah, Sulawesi Tenggara, Sulawesi Barat |
+
 <div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
   <img src="Image/Peta_2024.png" width="1000" height="500"><br>
   <span style="color:white; font-weight:bold; font-size:16px;">Gambar 2. Peta Klasterisasi Pasca Covid-19</span>
