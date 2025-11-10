@@ -56,20 +56,19 @@ Proyek ini menggunakan dua pendekatan utama:
   <br>
 </p>
 
-| Cluster | Nama Provinsi |
-|:-------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **2** | Sumatera Utara, Sumatera Barat, Riau, Jambi, Bangka Belitung, Kepulauan Riau, Jakarta Raya, Jawa Barat, Banten, Bali, Kalimantan Barat, Kalimantan Tengah, Kalimantan Selatan, Kalimantan Timur, Kalimantan Utara, Sulawesi Utara, Sulawesi Selatan, Maluku Utara |
-| **4** | Nusa Tenggara Timur, Papua Barat, Papua |
-| **5** | Aceh, Bengkulu, Nusa Tenggara Barat, Gorontalo, Maluku |
-| **6** | Sumatera Selatan, Lampung, Jawa Tengah, Yogyakarta, Jawa Timur, Sulawesi Tengah, Sulawesi Tenggara, Sulawesi Barat |
-
-
 <div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
   <img src="Image/Peta_2024.png" width="1000" height="500"><br>
   <span style="color:white; font-weight:bold; font-size:16px;">Gambar 2. Peta Klasterisasi Pasca Covid-19</span>
 </div>
   <br>
 </p>
+
+| Cluster | Nama Provinsi |
+|:-------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **2** | Sumatera Utara, Sumatera Barat, Riau, Jambi, Bangka Belitung, Kepulauan Riau, Jakarta Raya, Jawa Barat, Banten, Bali, Kalimantan Barat, Kalimantan Tengah, Kalimantan Selatan, Kalimantan Timur, Kalimantan Utara, Sulawesi Utara, Sulawesi Selatan, Maluku Utara |
+| **4** | Nusa Tenggara Timur, Papua Barat, Papua |
+| **5** | Aceh, Bengkulu, Nusa Tenggara Barat, Gorontalo, Maluku |
+| **6** | Sumatera Selatan, Lampung, Jawa Tengah, Yogyakarta, Jawa Timur, Sulawesi Tengah, Sulawesi Tenggara, Sulawesi Barat |
    
 ### 2. Trend Data rata rata pertahun (line chart) (Joy)
 ### 3. Provinsi 10 tertinggi dan 10 terendah (Covid) (Bar Chart) (Wita)
