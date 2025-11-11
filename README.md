@@ -81,6 +81,12 @@ Proyek ini menggunakan dua pendekatan utama:
 
    
 ### 2. Trend Data rata rata pertahun (line chart) (Joy)
+<div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
+  <img src="Image/rata-ratapersentasependudukmiskinpertahun.png" width="1000" height="500"><br>
+  <span style="color:white; font-weight:bold; font-size:16px;">Gambar gatau cobain dlu. Density Plot Pasca Covid</span>
+</div>
+  <br>
+</p>
 ### 3. Provinsi 10 tertinggi dan 10 terendah (Covid) (Bar Chart) (Wita)
 
 ### 4. Provinsi 10 tertinggi dan 10 terendah (Pasca Covid) (Bar Chart) (Sisca)
