@@ -87,8 +87,8 @@ Proyek ini menggunakan dua pendekatan utama:
 </div>
   <br>
 </p>
-### 3. Provinsi 10 tertinggi dan 10 terendah (Covid) (Bar Chart) (Wita)
 
+### 3. Provinsi 10 tertinggi dan 10 terendah (Covid) (Bar Chart) (Wita)
 ### 4. Provinsi 10 tertinggi dan 10 terendah (Pasca Covid) (Bar Chart) (Sisca)
 ### 5. Distribusi Data Berdasarkan Cluster Gabungan (Density Plot) (sisca)
 ### 6. Distribusi Data Berdasarkan Cluster Covid (Density Plot) (Joy)
