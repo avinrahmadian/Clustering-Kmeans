@@ -83,7 +83,7 @@ Proyek ini menggunakan dua pendekatan utama:
 ### 2. Trend Data rata rata pertahun (line chart) (Joy)
 <div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
   <img src="Image/rata-ratapersentasependudukmiskinpertahun.png" width="1000" height="500"><br>
-
+  <span style="color:white; font-weight:bold; font-size:16px;">Gambar 3. Tren Rata-Rata Presentase Penduduk Miskin Nasional</span>
 </div>
   <br>
 </p>
