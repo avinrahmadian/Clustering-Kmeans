@@ -54,7 +54,12 @@ Berdasarkan latar belakang di atas, penelitian ini memiliki tujuan utama untuk m
 
 Proyek ini menggunakan dua pendekatan utama:
 1. Statistik Deskriptif : menggambarkan sebaran dan tren tingkat kemiskinan provinsi di Indonesia pada periode 2019–2024.
-2. Klastering K-Means : mengelompokkan provinsi dengan pola kemiskinan yang mirip untuk melihat kesamaan kondisi ekonomi antar wilayah.
+2. Metode K-Means :
+   Metode K-Means Clustering merupakan salah satu teknik unsupervised machine learning yang digunakan untuk mengelompokkan data ke dalam beberapa kelompok (cluster) berdasarkan kemiripan karakteristik. Algoritma ini bekerja dengan meminimalkan jarak antar data dalam satu cluster dan memaksimalkan perbedaan antar cluster
+   Tahapan metode K-Menas :
+   a. Persiapan dan Pembersihan Data
+   b. Menentukan Jumlah Cluster (K)
+   c. Proses Algoritma K-Means
 
 # 🎨 **Visualisasi**
 ### 1. Peta Klasterisasi Tingkat Kemiskinan Provinsi di Indonesia (Avin)
