@@ -10,11 +10,11 @@ Proyek ini bertujuan untuk menganalisis tingkat kemiskinan di Indonesia periode 
 # 💡 **Latar Belakang (Yasinta)**
 
 
-Kemiskinan merupakan salah satu isu pembangunan sosio-ekonomi yang paling mendesak dan kompleks di Indonesia. Meskipun telah terjadi peningkatan pertumbuhan ekonomi secara umum, tantangan dalam mengurangi disparitas pendapatan dan menjangkau kelompok rentan tetap signifikan. Data tingkat kemiskinan menjadi indikator krusial dalam mengukur keberhasilan pembangunan dan efektivitas kebijakan pemerintah. Oleh karena itu, analisis mendalam terhadap tren dan distribusi kemiskinan dari tahun ke tahun—khususnya pada periode 2019 hingga 2024—sangat diperlukan untuk memahami dinamika perubahan sosial ekonomi pasca-pandemi dan adaptasi kebijakan yang diterapkan.
+Kemiskinan merupakan salah satu isu pembangunan sosio-ekonomi yang paling mendesak dan kompleks di Indonesia. Meskipun telah terjadi peningkatan pertumbuhan ekonomi secara umum, tantangan dalam mengurangi disparitas pendapatan dan menjangkau kelompok rentan tetap signifikan. Data tingkat kemiskinan menjadi indikator krusial dalam mengukur keberhasilan pembangunan dan efektivitas kebijakan pemerintah. Oleh karena itu, analisis mendalam terhadap tren dan distribusi kemiskinan dari tahun ke tahun khususnya pada periode 2019 hingga 2024 sangat diperlukan untuk memahami dinamika perubahan sosial ekonomi pasca-pandemi dan adaptasi kebijakan yang diterapkan.
 
 Analisis tingkat kemiskinan seringkali disajikan dalam bentuk statistik agregat nasional atau perbandingan langsung antar provinsi. Namun, pendekatan ini cenderung menyembunyikan heterogenitas kondisi di lapangan. Indonesia, sebagai negara kepulauan yang luas, memiliki keragaman yang ekstrem dalam faktor-faktor yang memengaruhi kemiskinan, mulai dari akses infrastruktur, kondisi geografis, hingga struktur ekonomi lokal. Untuk merumuskan kebijakan yang tepat sasaran, penting untuk mengidentifikasi pola-pola kemiskinan yang serupa di antara berbagai provinsi. Pengelompokan ini akan mengungkapkan perbedaan kondisi sosial ekonomi yang mendasar antar wilayah, memungkinkan alokasi sumber daya yang lebih efisien dan intervensi yang disesuaikan dengan kebutuhan spesifik kelompok provinsi.
 
-Dalam konteks analisis data yang kompleks dan multidimensi, metode Clustering K-Means menawarkan solusi yang efektif. K-Means adalah algoritma pembelajaran tanpa pengawasan (unsupervised learning) yang bertujuan untuk mengelompokkan $n$ objek pengamatan ke dalam $k$ cluster (kelompok) berdasarkan kedekatan jarak antara objek. Dalam proyek ini, K-Means akan diterapkan untuk:Mengelompokkan provinsi berdasarkan data tingkat kemiskinan periode 2019-2024.Menggambarkan pola tingkat kemiskinan yang tersembunyi (misalnya, kelompok provinsi dengan kemiskinan yang stagnan, menurun pesat, atau fluktuatif).Penerapan metode K-Means ini tidak hanya memberikan gambaran statistik, tetapi juga menghasilkan visualisasi dan interpretasi yang jelas mengenai peta kemiskinan di Indonesia.
+Dalam konteks analisis data yang kompleks dan multidimensi, metode Clustering K-Means menawarkan solusi yang efektif. K-Means adalah algoritma pembelajaran tanpa pengawasan (unsupervised learning) yang bertujuan untuk mengelompokkan n objek pengamatan ke dalam k cluster (kelompok) berdasarkan kedekatan jarak antara objek. Dalam proyek ini, K-Means akan diterapkan untuk:Mengelompokkan provinsi berdasarkan data tingkat kemiskinan periode 2019-2024.Menggambarkan pola tingkat kemiskinan yang tersembunyi (misalnya, kelompok provinsi dengan kemiskinan yang stagnan, menurun pesat, atau fluktuatif).Penerapan metode K-Means ini tidak hanya memberikan gambaran statistik, tetapi juga menghasilkan visualisasi dan interpretasi yang jelas mengenai peta kemiskinan di Indonesia.
 
 # 🎯 **Tujuan Penelitian (Yasinta)**
 
@@ -110,9 +110,6 @@ Proyek ini menggunakan dua pendekatan utama:
 </p>
 
 # 💎 **Manfaat Penelitian (Yasinta)**
-
-
-Tentu, berdasarkan latar belakang dan judul "ANALISIS KLASTERISASI ANGKA KEMISKINAN DI INDONESIA PERIODE 2019–2024 MENGGUNAKAN METODE K-MEANS", berikut adalah manfaat utama dari proyek atau penelitian ini, dikelompokkan berdasarkan penerima manfaat:
 
 🌟 Manfaat Analisis Klasterisasi Angka Kemiskinan
 Proyek ini diharapkan memberikan manfaat yang signifikan bagi berbagai pihak, terutama dalam konteks pengambilan keputusan dan perumusan kebijakan.
