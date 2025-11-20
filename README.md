@@ -54,7 +54,12 @@ Berdasarkan latar belakang di atas, penelitian ini memiliki tujuan utama untuk m
 
 Proyek ini menggunakan dua pendekatan utama:
 1. Statistik Deskriptif : menggambarkan sebaran dan tren tingkat kemiskinan provinsi di Indonesia pada periode 2019–2024.
-2. Metode K-Means :
+   
+| Variabel |  n  |  mean  | std dev | min  |   Q1   | Median |   Q3   |  Max  |
+|----------|-----|--------|---------|------|--------|--------|--------|-------|
+| X1       | 27  | 39.58  |  3.87   |2.34  |  6.36  | 8.41   | 10.19  | 11.93 |
+
+3. Metode K-Means :
    Metode K-Means Clustering merupakan salah satu teknik unsupervised machine learning yang digunakan untuk mengelompokkan data ke dalam beberapa kelompok (cluster) berdasarkan kemiripan karakteristik. Algoritma ini bekerja dengan meminimalkan jarak antar data dalam satu cluster dan memaksimalkan perbedaan antar cluster
    Tahapan metode K-Menas :
    a. Persiapan dan Pembersihan Data
