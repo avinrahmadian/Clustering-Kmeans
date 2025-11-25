@@ -29,6 +29,13 @@ Berdasarkan latar belakang di atas, penelitian ini memiliki tujuan utama untuk m
   <br>
 </p>
 
+<div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
+  <img src="Image/Logo_BPS.png" alt="BPS Jawa Barat" width="250"><br>
+  <span style="color:white; font-weight:bold; font-size:16px;">BPS Jawa Barat</span>
+</div>
+  <br>
+</p>
+
 ### Variabel
 | Kode | Nama Variabel                                                                 |
 |------|-------------------------------------------------------------------------------|
