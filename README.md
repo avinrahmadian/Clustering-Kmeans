@@ -29,26 +29,77 @@ Berdasarkan latar belakang di atas, penelitian ini memiliki tujuan utama untuk m
   <br>
 </p>
 
+### Variabel
+| Kode | Nama Variabel                                                                 |
+|------|-------------------------------------------------------------------------------|
+| X1   | Persentase Penduduk Miskin Usia 15+ Tidak Bekerja                             |
+| X2   | Persentase Penduduk Miskin Usia 15+ Pekerja Informal                          |
+| X3   | Persentase Penduduk Miskin Usia 15+ Pekerja Formal                            |
+| X4   | Persentase Pengeluaran per Kapita Rumah Tangga Miskin untuk Makanan           |
+| X5   | Persentase Pengeluaran per Kapita Rumah Tangga Miskin untuk Bukan Makanan     |
+| X6   | Persentase Rumah Tangga Miskin yang menggunakan Air Layak                     |
+| X7   | Persentase Rumah Tangga Miskin yang menggunakan Jamban Sendiri/Bersama        |
+| X8   | Indeks Kedalaman Kemiskinan                                                   |
+| X9   | Indeks Keparahan Kemiskinan                                                   |
+
 ###  Cuplikan Data
+| Kabupaten/Kota   |   X1  |   X2  |   X3  |   X4  |   X5  |   X6  |   X7  |  X8  |  X9  |
+|------------------|-------|-------|-------|-------|-------|-------|-------|------|------|
+| Bogor            | 42.12 | 24.35 | 33.53 | 62.81 | 37.19 | 79.77 | 92.83 | 1.08 | 0.26 |
+| Sukabumi         | 40.40 | 37.22 | 22.38 | 67.45 | 32.55 | 94.16 | 89.38 | 0.88 | 0.20 |
+| Cianjur          | 37.36 | 42.34 | 20.30 | 66.02 | 33.98 | 92.71 | 93.89 | 1.58 | 0.41 |
+| Bandung          | 38.87 | 26.07 | 35.06 | 64.58 | 35.42 | 91.80 | 94.30 | 0.61 | 0.09 |
+| Garut            | 38.26 | 39.13 | 22.60 | 68.37 | 31.63 | 78.97 | 78.24 | 1.41 | 0.29 |
+| ...              |  ...  |  ...  |  ...  |  ...  |  ...  |  ...  |  ...  | ...  | ...  |
+| Kota Cirebon     | 44.40 | 22.30 | 33.30 | 60.74 | 39.26 | 89.26 | 100   | 1.18 | 0.25 |
+| Kota Bekasi      | 41.56 | 17.83 | 40.61 | 54.15 | 45.85 | 100   | 98.09 | 0.80 | 0.21 |
+| Kota Depok       | 40.43 | 18.31 | 41.26 | 56.42 | 43.58 | 100   | 100   | 0.34 | 0.07 |
+| Kota Cimahi      | 39.74 | 21.43 | 38.83 | 60.10 | 39.90 | 100   | 100   | 0.83 | 0.21 |
+| Kota Banjar      | 40.80 | 32.07 | 27.13 | 69.81 | 30.19 | 95.34 | 87.53 | 1.03 | 0.29 |
 
-| id | Kode Provinsi  | Provinsi              | Persentase Penduduk Miskin  | Tahun |
-|----|----------------|-----------------------|-----------------------------|--------|
-| 1  | 11             | ACEH                  | 15.32                       | 2019   |
-| 2  | 12             | SUMATERA UTARA        | 8.83                        | 2019   |
-| 3  | 13             | SUMATERA BARAT        | 6.42                        | 2019   |
-| 4  | 14             | RIAU                  | 7.08                        | 2019   |
-| 5  | 15             | JAMBI                 | 7.60                        | 2019   |
-| …  | …              | …                     | …                           | …      |
-| 224| 92             | PAPUA BARAT DAYA      | 18.13                       | 2024   |
-| 225| 94             | PAPUA                 | 17.26                       | 2024   |
-| 226| 95             | PAPUA SELATAN         | 17.44                       | 2024   |
-| 227| 96             | PAPUA TENGAH          | 29.76                       | 2024   |
-| 228| 97             | PAPUA PEGUNUNGAN      | 32.97                       | 2024   |
+<table>
+  <tr>
 
-| Periode               | Tahun      | Keterangan                                           |
-|:----------------------|:----------:|------------------------------------------------------|
-| Pra & Pandemi COVID-19   | 2019 – 2021  | Mencerminkan dampak awal hingga puncak pandemi       |
-| Pasca COVID-19        | 2022 – 2024  | Mencerminkan proses pemulihan ekonomi                |
+    <td style="vertical-align: top; width: 45%;">
+
+      <h3>Variabel</h3>
+
+      <table>
+        <tr><th>Kode</th><th>Nama Variabel</th></tr>
+        <tr><td>X1</td><td>Persentase Penduduk Miskin Usia 15+ Tidak Bekerja</td></tr>
+        <tr><td>X2</td><td>Persentase Penduduk Miskin Usia 15+ Pekerja Informal</td></tr>
+        <tr><td>X3</td><td>Persentase Penduduk Miskin Usia 15+ Pekerja Formal</td></tr>
+        <tr><td>X4</td><td>Persentase Pengeluaran RT Miskin untuk Makanan</td></tr>
+        <tr><td>X5</td><td>Pengeluaran RT Miskin untuk Bukan Makanan</td></tr>
+        <tr><td>X6</td><td>RT Miskin menggunakan Air Layak</td></tr>
+        <tr><td>X7</td><td>RT Miskin menggunakan Jamban</td></tr>
+        <tr><td>X8</td><td>Indeks Kedalaman Kemiskinan</td></tr>
+        <tr><td>X9</td><td>Indeks Keparahan Kemiskinan</td></tr>
+      </table>
+
+    </td>
+
+    <td style="vertical-align: top; width: 55%;">
+
+      <h3>Cuplikan Data</h3>
+
+      <table>
+        <tr>
+          <th>Kab/Kota</th><th>X1</th><th>X2</th><th>X3</th><th>X4</th><th>X5</th><th>X6</th><th>X7</th><th>X8</th><th>X9</th>
+        </tr>
+        <tr><td>Bogor</td><td>42.12</td><td>24.35</td><td>33.53</td><td>62.81</td><td>37.19</td><td>79.77</td><td>92.83</td><td>1.08</td><td>0.26</td></tr>
+        <tr><td>Sukabumi</td><td>40.40</td><td>37.22</td><td>22.38</td><td>67.45</td><td>32.55</td><td>94.16</td><td>89.38</td><td>0.88</td><td>0.20</td></tr>
+        <tr><td>Cianjur</td><td>37.36</td><td>42.34</td><td>20.30</td><td>66.02</td><td>33.98</td><td>92.71</td><td>93.89</td><td>1.58</td><td>0.41</td></tr>
+      </table>
+
+    </td>
+
+  </tr>
+</table>
+
+
+
+
 
 # ⚙️ **Metodologi (Joi)**
 
