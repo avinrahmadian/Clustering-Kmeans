@@ -9,7 +9,6 @@ Proyek ini menganalisis pengelompokan wilayah di Jawa Barat berdasarkan karakter
 
 # 💡 **Latar Belakang (Yasinta)**
 
-
 Kemiskinan merupakan salah satu isu pembangunan sosio-ekonomi yang paling mendesak dan kompleks di Indonesia. Meskipun telah terjadi peningkatan pertumbuhan ekonomi secara umum, tantangan dalam mengurangi disparitas pendapatan dan menjangkau kelompok rentan tetap signifikan. Data tingkat kemiskinan menjadi indikator krusial dalam mengukur keberhasilan pembangunan dan efektivitas kebijakan pemerintah. Oleh karena itu, analisis mendalam terhadap tren dan distribusi kemiskinan dari tahun ke tahun khususnya pada periode 2019 hingga 2024 sangat diperlukan untuk memahami dinamika perubahan sosial ekonomi pasca-pandemi dan adaptasi kebijakan yang diterapkan.
 
 Analisis tingkat kemiskinan seringkali disajikan dalam bentuk statistik agregat nasional atau perbandingan langsung antar provinsi. Namun, pendekatan ini cenderung menyembunyikan heterogenitas kondisi di lapangan. Indonesia, sebagai negara kepulauan yang luas, memiliki keragaman yang ekstrem dalam faktor-faktor yang memengaruhi kemiskinan, mulai dari akses infrastruktur, kondisi geografis, hingga struktur ekonomi lokal. Untuk merumuskan kebijakan yang tepat sasaran, penting untuk mengidentifikasi pola-pola kemiskinan yang serupa di antara berbagai provinsi. Pengelompokan ini akan mengungkapkan perbedaan kondisi sosial ekonomi yang mendasar antar wilayah, memungkinkan alokasi sumber daya yang lebih efisien dan intervensi yang disesuaikan dengan kebutuhan spesifik kelompok provinsi.
@@ -99,10 +98,8 @@ Berdasarkan latar belakang di atas, penelitian ini memiliki tujuan utama untuk m
   <tr><td>Sukabumi</td><td>40.40</td><td>37.22</td><td>22.38</td><td>67.45</td><td>32.55</td><td>94.16</td><td>89.38</td><td>0.88</td><td>0.20</td></tr>
   <tr><td>Cianjur</td><td>37.36</td><td>42.34</td><td>20.30</td><td>66.02</td><td>33.98</td><td>92.71</td><td>93.89</td><td>1.58</td><td>0.41</td></tr>
   <tr><td>Bandung</td><td>38.87</td><td>26.07</td><td>35.06</td><td>64.58</td><td>35.42</td><td>91.80</td><td>94.30</td><td>0.61</td><td>0.09</td></tr>
-
   <!-- TITIK-TITIK DI TENGAH -->
   <tr><td colspan="10" style="text-align:center;">...</td></tr>
-
   <!-- 4 Baris Terbawah -->
   <tr><td>Kota Bekasi</td><td>41.56</td><td>17.83</td><td>40.61</td><td>54.15</td><td>45.85</td><td>100</td><td>98.09</td><td>0.80</td><td>0.21</td></tr>
   <tr><td>Kota Depok</td><td>40.43</td><td>18.31</td><td>41.26</td><td>56.42</td><td>43.58</td><td>100</td><td>100</td><td>0.34</td><td>0.07</td></tr>
@@ -110,14 +107,8 @@ Berdasarkan latar belakang di atas, penelitian ini memiliki tujuan utama untuk m
   <tr><td>Kota Banjar</td><td>40.80</td><td>32.07</td><td>27.13</td><td>69.81</td><td>30.19</td><td>95.34</td><td>87.53</td><td>1.03</td><td>0.29</td></tr>
 </table>
 
-
 </td>
-
 </tr></table>
-
-
-
-
 
 
 # ⚙️ **Metodologi (Joi)**
@@ -137,12 +128,13 @@ Proyek ini menggunakan dua pendekatan utama:
 | **X8**   | 27 | 93.82 | 5.75    | 78.24 | 91.21 | 95.19  | 97.86 | 100.00 |
 
 
-3. Metode K-Means :
+2. Metode K-Means :
    Metode K-Means Clustering merupakan salah satu teknik unsupervised machine learning yang digunakan untuk mengelompokkan data ke dalam beberapa kelompok (cluster) berdasarkan kemiripan karakteristik. Algoritma ini bekerja dengan meminimalkan jarak antar data dalam satu cluster dan memaksimalkan perbedaan antar cluster
    Tahapan metode K-Menas :
    a. Persiapan dan Pembersihan Data
    b. Menentukan Jumlah Cluster (K)
    c. Proses Algoritma K-Means
+
 
 # 🎨 **Visualisasi**
 ### 1. Peta Klasterisasi Tingkat Kemiskinan Provinsi di Indonesia (Avin)
