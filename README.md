@@ -135,6 +135,12 @@ Proyek ini menggunakan dua pendekatan utama:
    b. Menentukan Jumlah Cluster (K)
    c. Proses Algoritma K-Means
 
+## Metode K-Means
+#### 1. Menstandarisasi Data 
+#### 2. Menghitung Jarak Antar Observasi
+#### 3. Menentukan Cluster Optimal dengan Shiloute
+#### 4. Pembentukan Cluster dan Visualisasi Cluster 
+
 
 # 🎨 **Visualisasi**
 ### 1. Peta Klasterisasi Tingkat Kemiskinan Provinsi di Indonesia (Avin)
