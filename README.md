@@ -146,8 +146,9 @@ Statistik deskriptif digunakan untuk memberikan gambaran umum mengenai sebaran n
 ### B. Metode K-Means
 #### 1. Menstandarisasi Data 
 #### 2. Menghitung Jarak Antar Observasi
-#### 3. Menentukan Cluster Optimal dengan Shiloute
-#### 4. Pembentukan Cluster dan Visualisasi Cluster 
+#### 3. Mencari PCA
+#### 4. Menentukan Cluster Optimal dengan Shiloute
+#### 5. Pembentukan Cluster dan Visualisasi Cluster 
 
 
 # 🎨 **Visualisasi**
