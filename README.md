@@ -114,6 +114,7 @@ Statistik deskriptif digunakan untuk memberikan gambaran umum mengenai sebaran n
 | **X9**  | 27 |  0.28 |   0.13  |  0.07 |  0.20  |  0.26  |  0.36  |  0.54 |
 
 ### B. Metode K-Means
+K-Means adalah metode klasterisasi non-hierarkis yang mengelompokkan data ke dalam K klaster berdasarkan kedekatan jarak terhadap pusat klaster (centroid). Metode ini bertujuan meminimalkan jumlah kuadrat jarak dalam klaster (Within Cluster Sum of Squares/WCSS).
 #### 1. Menstandarisasi Data 
 #### 2. Menghitung Jarak Antar Observasi
 #### 3. Mencari PCA
