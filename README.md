@@ -116,8 +116,10 @@ Statistik deskriptif digunakan untuk memberikan gambaran umum mengenai sebaran n
 ### B. Metode K-Means
 K-Means adalah metode klasterisasi non-hierarkis yang mengelompokkan data ke dalam K klaster berdasarkan kedekatan jarak terhadap pusat klaster (centroid). Metode ini bertujuan meminimalkan jumlah kuadrat jarak dalam klaster (Within Cluster Sum of Squares/WCSS).
 #### 1. Menstandarisasi Data 
-#### 2. Menghitung Jarak Antar Observasi
-#### 3. Mencari PCA
+Data awal distandarisasi menggunakan metode seperti z-score agar setiap variabel berada pada skala yang sama. Hal ini penting karena K-Means berbasis jarak, sehingga variabel berskala besar tidak mendominasi hasil pengelompokan.
+#### 2. Mencari PCA
+#### 3. Menghitung Jarak Antar Observasi
+Menghitung jarak Euclidean (atau jarak lain) antar observasi pada ruang data hasil standarisasi/PCA. Jarak ini digunakan untuk menentukan centroid terdekat pada proses K-Means.
 #### 4. Menentukan Cluster Optimal dengan Shiloute
 #### 5. Pembentukan Cluster dan Visualisasi Cluster 
 
