@@ -56,54 +56,6 @@ Berdasarkan latar belakang di atas, penelitian ini memiliki tujuan utama untuk m
 | Kota Cimahi      | 39.74 | 21.43 | 38.83 | 60.10 | 39.90 | 100   | 100   | 0.83 | 0.21 |
 | Kota Banjar      | 40.80 | 32.07 | 27.13 | 69.81 | 30.19 | 95.34 | 87.53 | 1.03 | 0.29 |
 
-<table><tr>
-
-<td style="vertical-align: top; width: 50%;">
-
-<h3>Variabel</h3>
-
-<table>
-<tr><th>Kode</th><th>Nama Variabel</th></tr>
-<tr><td>X1</td><td>Persentase Penduduk Miskin Usia 15+ Tidak Bekerja</td></tr>
-<tr><td>X2</td><td>Persentase Penduduk Miskin Usia 15+ Pekerja Informal</td></tr>
-<tr><td>X3</td><td>Persentase Penduduk Miskin Usia 15+ Pekerja Formal</td></tr>
-<tr><td>X4</td><td>Persentase Pengeluaran RT Miskin untuk Makanan</td></tr>
-<tr><td>X5</td><td>Pengeluaran RT Miskin untuk Bukan Makanan</td></tr>
-<tr><td>X6</td><td>RT Miskin menggunakan Air Layak</td></tr>
-<tr><td>X7</td><td>RT Miskin menggunakan Jamban</td></tr>
-<tr><td>X8</td><td>Indeks Kedalaman Kemiskinan</td></tr>
-<tr><td>X9</td><td>Indeks Keparahan Kemiskinan</td></tr>
-</table>
-
-</td>
-
-<td style="vertical-align: top; width: 50%;">
-
-<h3>Cuplikan Data</h3>
-
-<table>
-  <tr>
-    <th>Kab/Kota</th><th>X1</th><th>X2</th><th>X3</th><th>X4</th><th>X5</th><th>X6</th><th>X7</th><th>X8</th><th>X9</th>
-  </tr>
-
-  <!-- 4 Baris Teratas -->
-  <tr><td>Bogor</td><td>42.12</td><td>24.35</td><td>33.53</td><td>62.81</td><td>37.19</td><td>79.77</td><td>92.83</td><td>1.08</td><td>0.26</td></tr>
-  <tr><td>Sukabumi</td><td>40.40</td><td>37.22</td><td>22.38</td><td>67.45</td><td>32.55</td><td>94.16</td><td>89.38</td><td>0.88</td><td>0.20</td></tr>
-  <tr><td>Cianjur</td><td>37.36</td><td>42.34</td><td>20.30</td><td>66.02</td><td>33.98</td><td>92.71</td><td>93.89</td><td>1.58</td><td>0.41</td></tr>
-  <tr><td>Bandung</td><td>38.87</td><td>26.07</td><td>35.06</td><td>64.58</td><td>35.42</td><td>91.80</td><td>94.30</td><td>0.61</td><td>0.09</td></tr>
-  <!-- TITIK-TITIK DI TENGAH -->
-  <tr><td colspan="10" style="text-align:center;">...</td></tr>
-  <!-- 4 Baris Terbawah -->
-  <tr><td>Kota Bekasi</td><td>41.56</td><td>17.83</td><td>40.61</td><td>54.15</td><td>45.85</td><td>100</td><td>98.09</td><td>0.80</td><td>0.21</td></tr>
-  <tr><td>Kota Depok</td><td>40.43</td><td>18.31</td><td>41.26</td><td>56.42</td><td>43.58</td><td>100</td><td>100</td><td>0.34</td><td>0.07</td></tr>
-  <tr><td>Kota Cimahi</td><td>39.74</td><td>21.43</td><td>38.83</td><td>60.10</td><td>39.90</td><td>100</td><td>100</td><td>0.83</td><td>0.21</td></tr>
-  <tr><td>Kota Banjar</td><td>40.80</td><td>32.07</td><td>27.13</td><td>69.81</td><td>30.19</td><td>95.34</td><td>87.53</td><td>1.03</td><td>0.29</td></tr>
-</table>
-
-</td>
-</tr></table>
-
-
 # ⚙️ **Metodologi (Joi)**
 1. Jenis dan Pendekatan Penelitian<br>
    Penelitian ini merupakan penelitian kuantitatif eksploratir dengan pendekatan unsupervised learning menggunakan metode clustering. Tujuan utamanya adalah untuk mengelompokkan kabupaten/kota di Provinsi Jawa Barat berdasarkan karakteristik kemiskinan serta membandingkan hasil pengelompokan antara metode K-Means dan K-Medoids
