@@ -105,24 +105,24 @@ Berdasarkan latar belakang di atas, penelitian ini memiliki tujuan utama untuk m
 
 
 # ⚙️ **Metodologi (Joi)**
-1. Jenis dan Pendekatan Penelitian
+1. Jenis dan Pendekatan Penelitian<br>
    Penelitian ini merupakan penelitian kuantitatif eksploratir dengan pendekatan unsupervised learning menggunakan metode clustering. Tujuan utamanya adalah untuk mengelompokkan kabupaten/kota di Provinsi Jawa Barat berdasarkan karakteristik kemiskinan serta membandingkan hasil pengelompokan antara metode K-Means dan K-Medoids
-3. Tahapan Analisis Data
-   a. Prapemrosesan Data (Preprocessing)
+3. Tahapan Analisis Data <br>
+   a. Prapemrosesan Data (Preprocessing)<br>
    Pada tahapan ini dilakukan seleksi variabel, pemeriksaan missing value, serta melakukan standarisasi data menggunakan Z-score dengan menggunakan fungsi scaled() di R.
-   Standarisasi dilakukan karena K-Means dan K-Medoids berbasis perhitungan jarak, sehingga perbedaan skala antar variabel dapat menyebabkan distorsi hasil klasterisasi
-   b. Analisis Korelasi Antar Variabel
-   c. Analisis Reduksi Dimensi dengan PCA
-4. Penentuan Jumlah Klaster Optimal
+   Standarisasi dilakukan karena K-Means dan K-Medoids berbasis perhitungan jarak, sehingga perbedaan skala antar variabel dapat menyebabkan distorsi hasil klasterisasi<br>
+   b. Analisis Korelasi Antar Variabel<br>
+   c. Analisis Reduksi Dimensi dengan PCA<br>
+4. Penentuan Jumlah Klaster Optimal<br>
    Jumlah klaster (k) ditentukan menggunakan pendekatan Silhouette Method. Nilai K dipilih berdasarkan nilai silhouette tertinggi.
-5. Klasterisasi Menggunakan Metode K-Means
-   K-Means adalah metode klasterisasi non-hierarkis yang mengelompokkan data ke dalam K klaster berdasarkan kedekatan jarak terhadap pusat klaster (centroid). Metode ini bertujuan meminimalkan jumlah kuadrat jarak dalam klaster (Within Cluster Sum of Squares/WCSS).
-7. Klasterisasi Menggunakan Metode K-Medoids
+5. Klasterisasi Menggunakan Metode K-Means<br>
+   K-Means adalah metode klasterisasi non-hierarkis yang mengelompokkan data ke dalam K klaster berdasarkan kedekatan jarak terhadap pusat klaster (centroid). Metode ini bertujuan meminimalkan jumlah kuadrat jarak dalam klaster (Within Cluster Sum of Squares/WCSS).<br>
+7. Klasterisasi Menggunakan Metode K-Medoids<br>
    K-Medoids merupakan pengembangan dari K-means yang menggunakan medoid (objek aktual dalam dataset) sebagai pusat klaster. Metode ini dikenal sebagai algoritma PAM (Partitioning Around Medoids)
-9. Evaluasi dan Perbandingan Klaster
-   Evaluasi dilakukan dengan membandingkan nilai Silhouette antar 2 metode.
-10. Interpretasi Profil Klaster
-11. Visualisasi Hasil
+9. Evaluasi dan Perbandingan Klaster<br>
+   Evaluasi dilakukan dengan membandingkan nilai Silhouette antar 2 metode.<br>
+10. Interpretasi Profil Klaster<br>
+11. Visualisasi Hasil<br>
 
 Proyek ini menggunakan dua pendekatan utama:
 1. Statistik Deskriptif : menggambarkan sebaran dan tren tingkat kemiskinan provinsi di Indonesia pada periode 2019–2024.
