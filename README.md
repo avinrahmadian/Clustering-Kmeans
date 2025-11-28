@@ -249,7 +249,8 @@ Menghitung jarak Euclidean (atau jarak lain) antar observasi pada ruang data has
  
 
 # 💎 **Manfaat Penelitian**
-Penelitian ini memberikan gambaran pengelompokan wilayah di Jawa Barat berdasarkan karakteristik kemiskinan. Hasil penelitian menunjukkan bahwa K-Means merupakan metode yang lebih optimal dalam membentuk klaster yang representatif. Informasi tersebut dapat digunakan untuk mendukung penyusunan strategi penanggulangan kemiskinan yang lebih tepat sasaran sesuai kondisi setiap klaster wilayah.
+Penelitian ini memberikan gambaran **pengelompokan wilayah di Jawa Barat** berdasarkan **karakteristik kemiskinan**. Hasil penelitian menunjukkan bahwa ***K-Means*** **lebih optimal** dalam membentuk klaster yang representatif. Informasi tersebut dapat digunakan untuk mendukung penyusunan **strategi penanggulangan kemiskinan yang tepat sasaran** sesuai kondisi setiap klaster wilayah.
+
 
 # 👥 **Tim Penyusun**
 
