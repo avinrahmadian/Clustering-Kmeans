@@ -36,7 +36,7 @@ Untuk melakukan pengelompokan, dua metode algoritma yang sering digunakan dan me
     </td>
     <td style="vertical-align: middle; padding: 12px 20px; font-size: 15px;">
       📌 <b>Sumber Data:</b> Badan Pusat Statistik (BPS) – Provinsi Jawa Barat<br>
-      📅 <b>Tahun:</b> 2023<br>
+      📅 <b>Tahun:</b> 2024<br>
       📍 <b>Unit Analisis:</b> 27 Kabupaten/Kota<br>
       🧩 <b>Variabel:</b> 9 indikator kemiskinan (X1–X9)<br>
     </td>
