@@ -29,19 +29,20 @@ Untuk melakukan pengelompokan, dua metode algoritma yang sering digunakan dan me
 
 
 # 📊 **Data dan Variabel**
-
-<table>
+<table style="border: 1px solid #d0d7de; border-radius: 10px; width: 100%; background-color: #fefefe; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <tr>
-    <td style="width: 140px; text-align: center;">
-      <img src="Image/Logo_BPS.png" alt="BPS Logo" width="120"><br>
+    <td style="width: 160px; text-align: center; padding: 15px;">
+      <img src="Image/Logo_BPS.png" alt="Logo BPS" width="120"><br>
     </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p>📌 <b>Sumber Data:</b> Badan Pusat Statistik (BPS) – Provinsi Jawa Barat<br>
+    <td style="vertical-align: middle; padding: 12px 20px; font-size: 15px;">
+      📌 <b>Sumber Data:</b> Badan Pusat Statistik (BPS) – Provinsi Jawa Barat<br>
       📅 <b>Tahun:</b> 2023<br>
-      📍 <b>Unit Analisis:</b> 27 Kabupaten/Kota</p>
+      📍 <b>Unit Analisis:</b> 27 Kabupaten/Kota<br>
+      🧩 <b>Variabel:</b> 9 indikator kemiskinan (X1–X9)<br>
     </td>
   </tr>
 </table>
+
 
 
 
