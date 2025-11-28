@@ -26,7 +26,6 @@ Untuk melakukan pengelompokan, dua metode algoritma yang sering digunakan dan me
 
 # 🎯 **Tujuan Penelitian**
 1️⃣ Melakukan pengelompokan wilayah di Jawa Barat berdasarkan karakteristik kemiskinan menggunakan dua metode klasterisasi yaitu K-Means dan K-Medoids. <br>
-
 2️⃣ Menentukan metode yang paling optimal dalam menghasilkan klaster yang representatif sebagai dasar rekomendasi kebijakan. <br>
 
 # 📊 **Data dan Variabel**
@@ -66,7 +65,7 @@ Untuk melakukan pengelompokan, dua metode algoritma yang sering digunakan dan me
 | Kota Cimahi      | 39.74 | 21.43 | 38.83 | 60.10 | 39.90 | 100   | 100   | 0.83 | 0.21 |
 | Kota Banjar      | 40.80 | 32.07 | 27.13 | 69.81 | 30.19 | 95.34 | 87.53 | 1.03 | 0.29 |
 
-# ⚙️ **Metodologi (Joi)**
+# ⚙️ **Metodologi**
 1. Jenis dan Pendekatan Penelitian<br>
    Penelitian ini merupakan penelitian kuantitatif eksploratir dengan pendekatan unsupervised learning menggunakan metode clustering. Tujuan utamanya adalah untuk mengelompokkan kabupaten/kota di Provinsi Jawa Barat berdasarkan karakteristik kemiskinan serta membandingkan hasil pengelompokan antara metode K-Means dan K-Medoids
 3. Tahapan Analisis Data <br>
@@ -241,7 +240,7 @@ Menghitung jarak Euclidean (atau jarak lain) antar observasi pada ruang data has
  
 
 # 💎 **Manfaat Penelitian**
-Penelitian ini memberikan gambaran pengelompokan wilayah di Jawa Barat berdasarkan karakteristik kemiskinan. Hasil klasterisasi dapat dimanfaatkan untuk mendukung perencanaan program, pemetaan wilayah prioritas, dan penyusunan strategi penanggulangan kemiskinan yang lebih terarah sesuai kondisi tiap kelompok wilayah.
+Penelitian ini memberikan gambaran pengelompokan wilayah di Jawa Barat berdasarkan karakteristik kemiskinan. Hasil penelitian menunjukkan bahwa K-Means merupakan metode yang lebih optimal dalam membentuk klaster yang representatif. Informasi tersebut dapat digunakan untuk mendukung penyusunan strategi penanggulangan kemiskinan yang lebih tepat sasaran sesuai kondisi setiap klaster wilayah.
 
 # 👥 **Tim Penyusun**
 
