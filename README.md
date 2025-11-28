@@ -189,6 +189,32 @@ Menghitung jarak Euclidean (atau jarak lain) antar observasi pada ruang data has
 
 **Gambar 1. Perbandingan Peta Klasterisasi Tingkat Kemiskinan**
 
+<table style="width:100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="Image/Peta_K-means.png" width="100%">
+      <br><b>K-Means</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="Image/Peta_K-medoids.png" width="100%">
+      <br><b>K-Medoids</b>
+    </td>
+  </tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="Image/Peta_K-means.png" width="100%">
+      <div><i>Gambar 1.</i> Klasterisasi K-Means</div>
+    </td>
+    <td align="center" width="50%">
+      <img src="Image/Peta_K-medoids.png" width="100%">
+      <div><i>Gambar 2.</i> Klasterisasi K-Medoids</div>
+    </td>
+  </tr>
+</table>
+
 
 
 # 🎨 **Visualisasi**
