@@ -43,9 +43,6 @@ Untuk melakukan pengelompokan, dua metode algoritma yang sering digunakan dan me
   </tr>
 </table>
 
-
-
-
 ### Variabel
 | Kode | Nama Variabel                                                                 |
 |------|-------------------------------------------------------------------------------|
@@ -73,6 +70,7 @@ Untuk melakukan pengelompokan, dua metode algoritma yang sering digunakan dan me
 | Kota Depok       | 40.43 | 18.31 | 41.26 | 56.42 | 43.58 | 100   | 100   | 0.34 | 0.07 |
 | Kota Cimahi      | 39.74 | 21.43 | 38.83 | 60.10 | 39.90 | 100   | 100   | 0.83 | 0.21 |
 | Kota Banjar      | 40.80 | 32.07 | 27.13 | 69.81 | 30.19 | 95.34 | 87.53 | 1.03 | 0.29 |
+
 
 # ⚙️ **Metodologi**
 1. Jenis dan Pendekatan Penelitian<br>
