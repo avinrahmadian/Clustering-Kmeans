@@ -123,8 +123,10 @@ Tabel berikut menampilkan cuplikan hasil standarisasi untuk beberapa kabupaten/k
 | Kota Banjar      |  0.32 |  0.11 | -0.34 |  1.44 | -1.44 |  0.40 | -1.09 | -0.35 |  0.08 |
 
 #### 2. Mencari PCA
+
 #### 3. Menghitung Jarak Antar Observasi
 Menghitung jarak Euclidean (atau jarak lain) antar observasi pada ruang data hasil standarisasi/PCA. Jarak ini digunakan untuk menentukan centroid terdekat pada proses K-Means.
+
 #### 4. Menentukan Cluster Optimal dengan Shiloute
 a. K-Means
 <div align="center" style="background-color:#0f1419; padding:12px; border-radius:8px; width:100%; margin:auto;">
@@ -133,9 +135,13 @@ a. K-Means
 <br>
 <div>Penentuan jumlah klaster optimal dilakukan menggunakan metode Silhouette pada skor hasil Analisis Komponen Utama (PCA). Berdasarkan grafik Silhouette, nilai rata-rata tertinggi diperoleh pada k = 4 dengan nilai sekitar 0,48. Hal ini menunjukkan bahwa pembentukan empat klaster memberikan struktur pengelompokan yang cukup baik, dengan tingkat homogenitas dalam klaster yang memadai serta separasi antar klaster yang jelas. Oleh karena itu, analisis klaster selanjutnya dilakukan menggunakan empat klaster.</div>
 
-
 #### 5. Pembentukan Cluster dan Visualisasi Cluster 
-
+<div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
+  <img src="Image/Peta_K-means.png" width="1000" height="500"><br>
+  <span style="color:white; font-weight:bold; font-size:16px;">Gambar 1. Peta Klasterisasi Pra & Pandemi Covid-19</span>
+</div>
+  <br>
+</p>
 
 ### C. Metode K-Medoids
 
