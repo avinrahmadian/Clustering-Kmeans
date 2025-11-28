@@ -29,7 +29,7 @@ Untuk melakukan pengelompokan, dua metode algoritma yang sering digunakan dan me
 
 2️⃣ Menentukan metode yang paling optimal dalam menghasilkan klaster yang representatif sebagai dasar rekomendasi kebijakan. <br>
 
-# 📊 **Data dan Variabel (Avin)**
+# 📊 **Data dan Variabel**
 
 <div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
   <img src="Image/Logo_BPS.png" alt="BPS Jawa Barat" width="125"><br>
@@ -238,46 +238,7 @@ Menghitung jarak Euclidean (atau jarak lain) antar observasi pada ruang data has
 </div>
   <br>
 </p>
-### 1. Peta Klasterisasi Tingkat Kemiskinan Provinsi di Indonesia (Avin)
-<div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
-  <img src="Image/2021.png" width="1000" height="500"><br>
-  <span style="color:white; font-weight:bold; font-size:16px;">Gambar 1. Peta Klasterisasi Pra & Pandemi Covid-19</span>
-</div>
-  <br>
-</p>
-
-### Tabel Hasil Klasterisasi Provinsi Pra & Pandemi Covid-19
-
-| Cluster | Kriteria | Nama Provinsi |
-|:-------:|:-------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **1** | **Tinggi** | Nusa Tenggara Timur, Papua Barat, Papua |
-| **2** | **Menengah** | Sumatera Utara, Sumatera Barat, Riau, Jambi, Bangka Belitung, Kepulauan Riau, Jakarta Raya, Jawa Barat, Banten, Bali, Kalimantan Barat, Kalimantan Tengah, Kalimantan Selatan, Kalimantan Timur, Kalimantan Utara, Sulawesi Utara, Sulawesi Selatan |
-| **3** | **Rendah** | Aceh, Bengkulu, Nusa Tenggara Barat, Gorontalo, Maluku, Sumatera Selatan, Lampung, Jawa Tengah, Yogyakarta, Jawa Timur, Sulawesi Tengah, Sulawesi Tenggara, Sulawesi Barat |
-
-<div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
-  <img src="Image/2024.png" width="1000" height="500"><br>
-  <span style="color:white; font-weight:bold; font-size:16px;">Gambar 2. Peta Klasterisasi Pasca Covid-19</span>
-</div>
-  <br>
-</p>
-
-### Tabel Hasil Klasterisasi Provinsi Pasca Covid-19
-
-| Cluster | Kriteria | Nama Provinsi |
-|:-------:|:-------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **1** | **Tinggi** | Nusa Tenggara Timur, Papua Barat, Papua |
-| **2** | **Menengah** | Sumatera Utara, Sumatera Barat, Riau, Jambi, Bangka Belitung, Kepulauan Riau, Jakarta Raya, Jawa Barat, Banten, Bali, Kalimantan Barat, Kalimantan Tengah, Kalimantan Selatan, Kalimantan Timur, Kalimantan Utara, Sulawesi Utara, Sulawesi Selatan |
-| **3** | **Rendah** | Aceh, Bengkulu, Nusa Tenggara Barat, Gorontalo, Maluku, Sumatera Selatan, Lampung, Jawa Tengah, Yogyakarta, Jawa Timur, Sulawesi Tengah, Sulawesi Tenggara, Sulawesi Barat |
-
-   
-### 2. Trend Data rata rata pertahun (line chart) (Joy)
-<div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
  
-  <span style="color:white; font-weight:bold; font-size:16px;">Gambar 3. Tren Rata-Rata Presentase Penduduk Miskin Nasional</span>
-</div>
-  <br>
-</p>
-
 
 # 💎 **Manfaat Penelitian**
 
