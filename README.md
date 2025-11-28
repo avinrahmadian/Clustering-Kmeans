@@ -165,8 +165,8 @@ Tabel berikut menampilkan cuplikan hasil standarisasi untuk beberapa kabupaten/k
 
 #### 3. Menghitung Jarak Antar Observasi
 Menghitung jarak Euclidean (atau jarak lain) antar observasi pada ruang data hasil standarisasi/PCA. Jarak ini digunakan untuk menentukan centroid terdekat pada proses K-Means.
-#### 4. Menentukan Cluster Optimal dengan Shiloute
-a. K-Means
+#### 4. Menentukan Cluster Optimal dengan Silhouette
+
 <div align="center" style="background-color:#0f1419; padding:12px; border-radius:8px; width:100%; margin:auto;">
   <img src="Image/shilouette K-means.png" alt="Rumus Z-Score" style="width:90%; max-width:40px;">
 </div>
@@ -185,6 +185,7 @@ a. K-Means
 </div>
   <br>
 </p>
+
 
 <div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
   <img src="Image/k-means_bloxpot.jpeg" width="1000" height="500"><br>
