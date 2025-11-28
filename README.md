@@ -32,7 +32,7 @@ Untuk melakukan pengelompokan, dua metode algoritma yang sering digunakan dan me
 # 📊 **Data dan Variabel (Avin)**
 
 <div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
-  <img src="Image/Logo_BPS.png" alt="BPS Jawa Barat" width="150"><br>
+  <img src="Image/Logo_BPS.png" alt="BPS Jawa Barat" width="125"><br>
   <span style="color:white; font-weight:bold; font-size:16px;">BPS Jawa Barat</span>
 </div>
   <br>
