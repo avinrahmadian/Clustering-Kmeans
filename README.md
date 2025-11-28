@@ -7,7 +7,7 @@
 
 Proyek ini menganalisis pengelompokan wilayah di Jawa Barat berdasarkan karakteristik kemiskinan dengan membandingkan metode K-Means dan K-Medoids. Perbandingan ini dilakukan untuk melihat perbedaan hasil cluster dari kedua metode dan menentukan pendekatan yang lebih sesuai dalam menggambarkan pola kemiripan kondisi kemiskinan antarwilayah.
 
-# 💡 **Latar Belakang (Yasinta)**
+# 💡 **Latar Belakang**
 
 Provinsi Jawa Barat merupakan salah satu provinsi dengan jumlah penduduk terpadat dan kontributor Produk Domestik Regional Bruto (PDRB) terbesar di Indonesia. Meskipun menunjukkan pertumbuhan ekonomi yang pesat, isu kemiskinan tetap menjadi masalah struktural yang memerlukan penanganan serius. Data menunjukkan bahwa disparitas kemiskinan antar wilayah (Kabupaten/Kota) di Jawa Barat cukup signifikan, dipengaruhi oleh berbagai faktor mulai dari akses pendidikan, lapangan kerja, infrastruktur, hingga kondisi geografis.
 
@@ -24,7 +24,7 @@ Untuk melakukan pengelompokan, dua metode algoritma yang sering digunakan dan me
 
 
 
-# 🎯 **Tujuan Penelitian (Yasinta)**
+# 🎯 **Tujuan Penelitian**
 
 Mengingat potensi adanya outliers pada data karakteristik kemiskinan di Jawa Barat, menjadi relevan untuk membandingkan kinerja kedua algoritma ini. Penelitian ini bertujuan untuk membandingkan efektivitas, akurasi, dan interpretasi hasil dari metode K-Means dan K-Medoids dalam mengelompokkan wilayah di Jawa Barat berdasarkan karakteristik kemiskinan. Hasil perbandingan ini akan memberikan rekomendasi metodologis yang kuat mengenai algoritma mana yang paling optimal untuk menghasilkan klaster yang paling representatif dan dapat digunakan sebagai dasar pengambilan keputusan dalam perumusan kebijakan pengentasan kemiskinan.
 
@@ -172,7 +172,7 @@ Menghitung jarak Euclidean (atau jarak lain) antar observasi pada ruang data has
   <br>
 </p>
 
-# 💎 **Manfaat Penelitian (Yasinta)**
+# 💎 **Manfaat Penelitian**
 
 
 
