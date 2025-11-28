@@ -137,6 +137,41 @@ a. K-Means
 #### 5. Pembentukan Cluster dan Visualisasi Cluster 
 
 
+### C. Metode K-Medoids
+
+#### 1. Menstandarisasi Data 
+Data awal distandarisasi menggunakan metode seperti z-score agar setiap variabel berada pada skala yang sama. Hal ini penting karena K-Means berbasis jarak, sehingga variabel berskala besar tidak mendominasi hasil pengelompokan. Standarisasi dilakukan menggunakan metode z-score dengan rumus sebagai berikut:
+
+<div align="center" style="background-color:#0f1419; padding:12px; border-radius:8px; width:45%; margin:auto;">
+  <img src="Image/Rumus_Zscore.png" alt="Rumus Z-Score" style="width:10%; max-width:40px;">
+</div>
+<br>
+
+Tabel berikut menampilkan cuplikan hasil standarisasi untuk beberapa kabupaten/kota:
+
+| Kabupaten/Kota   |   X1  |   X2  |   X3  |   X4  |   X5  |   X6  |   X7  |   X8  |   X9  |
+|------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| Bogor            |  0.66 | -0.76 |  0.66 | -0.30 |  0.30 | -1.55 | -0.17 | -0.24 | -0.16 |
+| Sukabumi         |  0.21 |  0.69 | -1.07 |  0.86 | -0.86 |  0.25 | -0.77 | -0.70 | -0.63 |
+| ...              |   ... |   ... |   ... |   ... |   ... |   ... |   ... |   ... |   ... |
+| Kota Tasikmalaya | -0.11 | -0.57 |  0.86 |  1.81 | -1.81 | -1.61 | -0.48 |  0.39 | -0.16 |
+| Kota Banjar      |  0.32 |  0.11 | -0.34 |  1.44 | -1.44 |  0.40 | -1.09 | -0.35 |  0.08 |
+
+#### 3. Menghitung Jarak Antar Observasi
+Menghitung jarak Euclidean (atau jarak lain) antar observasi pada ruang data hasil standarisasi/PCA. Jarak ini digunakan untuk menentukan centroid terdekat pada proses K-Means.
+#### 4. Menentukan Cluster Optimal dengan Shiloute
+a. K-Means
+<div align="center" style="background-color:#0f1419; padding:12px; border-radius:8px; width:100%; margin:auto;">
+  <img src="Image/shilouette K-means.png" alt="Rumus Z-Score" style="width:90%; max-width:40px;">
+</div>
+<br>
+<div>Penentuan jumlah klaster optimal dilakukan menggunakan metode Silhouette pada skor hasil Analisis Komponen Utama (PCA). Berdasarkan grafik Silhouette, nilai rata-rata tertinggi diperoleh pada k = 4 dengan nilai sekitar 0,48. Hal ini menunjukkan bahwa pembentukan empat klaster memberikan struktur pengelompokan yang cukup baik, dengan tingkat homogenitas dalam klaster yang memadai serta separasi antar klaster yang jelas. Oleh karena itu, analisis klaster selanjutnya dilakukan menggunakan empat klaster.</div>
+
+
+#### 5. Pembentukan Cluster dan Visualisasi Cluster 
+
+
+
 # 🎨 **Visualisasi**
 ### 1. Peta Klasterisasi Tingkat Kemiskinan Provinsi di Indonesia (Avin)
 <div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
