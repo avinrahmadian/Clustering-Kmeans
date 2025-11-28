@@ -28,17 +28,21 @@ Untuk melakukan pengelompokan, dua metode algoritma yang sering digunakan dan me
 2️⃣ **Menentukan metode** yang paling **optimal** dalam menghasilkan **klaster** yang representatif sebagai dasar rekomendasi kebijakan. <br>
 
 
-
-
-
 # 📊 **Data dan Variabel**
 
-<div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
-  <img src="Image/Logo_BPS.png" alt="BPS Jawa Barat" width="125"><br>
-  <span style="color:white; font-weight:bold; font-size:16px;">BPS Jawa Barat</span>
-</div>
-  <br>
-</p>
+<table>
+  <tr>
+    <td style="width: 140px; text-align: center;">
+      <img src="Image/Logo_BPS.png" alt="BPS Logo" width="120"><br>
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p>📌 <b>Sumber Data:</b> Badan Pusat Statistik (BPS) – Provinsi Jawa Barat<br>
+      📅 <b>Tahun:</b> 2023<br>
+      📍 <b>Unit Analisis:</b> 27 Kabupaten/Kota</p>
+    </td>
+  </tr>
+</table>
+
 
 ### Variabel
 | Kode | Nama Variabel                                                                 |
