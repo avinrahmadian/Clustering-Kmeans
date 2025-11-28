@@ -107,7 +107,7 @@ K-Means adalah metode klasterisasi non-hierarkis yang mengelompokkan data ke dal
 Data awal distandarisasi menggunakan metode seperti z-score agar setiap variabel berada pada skala yang sama. Hal ini penting karena K-Means berbasis jarak, sehingga variabel berskala besar tidak mendominasi hasil pengelompokan. Standarisasi dilakukan menggunakan metode z-score dengan rumus sebagai berikut:
 
 <div align="center" style="background-color:#0f1419; padding:12px; border-radius:8px; width:45%; margin:auto;">
-  <img src="Image/Rumus_Zscore.png" alt="Rumus Z-Score" style="width:35%; max-width:140px;">
+  <img src="Image/Rumus_Zscore.png" alt="Rumus Z-Score" style="width:15%; max-width:50px;">
 </div>
 <br>
 
