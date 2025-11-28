@@ -85,27 +85,6 @@ Mengingat potensi adanya outliers pada data karakteristik kemiskinan di Jawa Bar
 10. Interpretasi Profil Klaster<br>
 11. Visualisasi Hasil<br>
 
-Proyek ini menggunakan dua pendekatan utama:
-1. Statistik Deskriptif : menggambarkan sebaran dan tren tingkat kemiskinan provinsi di Indonesia pada periode 2019–2024.
-
-| Variabel | n  | Mean  | Std Dev | Min   | Q1    | Median | Q3    | Max    |
-| -------- | -- | ----- | ------- | ----- | ----- | ------ | ----- | ------ |
-| **X1**   | 27 | 8.01  | 2.65    | 2.34  | 6.36  | 8.41   | 10.19 | 11.93  |
-| **X2**   | 27 | 39.58 | 3.87    | 25.10 | 38.01 | 40.40  | 41.74 | 44.58  |
-| **X3**   | 27 | 31.12 | 8.86    | 17.24 | 24.18 | 31.24  | 38.18 | 50.83  |
-| **X4**   | 27 | 29.30 | 6.44    | 20.30 | 23.86 | 27.48  | 34.45 | 41.26  |
-| **X5**   | 27 | 64.02 | 4.01    | 54.15 | 61.60 | 64.75  | 66.06 | 71.27  |
-| **X6**   | 27 | 35.98 | 4.01    | 28.73 | 33.95 | 35.25  | 38.41 | 45.85  |
-| **X7**   | 27 | 92.15 | 7.98    | 74.47 | 88.80 | 94.16  | 98.71 | 100.00 |
-| **X8**   | 27 | 93.82 | 5.75    | 78.24 | 91.21 | 95.19  | 97.86 | 100.00 |
-
-
-2. Metode K-Means :
-   Metode K-Means Clustering merupakan salah satu teknik unsupervised machine learning yang digunakan untuk mengelompokkan data ke dalam beberapa kelompok (cluster) berdasarkan kemiripan karakteristik. Algoritma ini bekerja dengan meminimalkan jarak antar data dalam satu cluster dan memaksimalkan perbedaan antar cluster
-   Tahapan metode K-Menas :
-   a. Persiapan dan Pembersihan Data
-   b. Menentukan Jumlah Cluster (K)
-   c. Proses Algoritma K-Means
 
 ### A. Statistik Deskriptif
 Statistik deskriptif digunakan untuk memberikan gambaran umum mengenai sebaran nilai indikator kemiskinan pada 27 kabupaten/kota di Provinsi Jawa Barat. Berdasarkan tabel di bawah, terlihat bahwa setiap variabel memiliki nilai rata-rata dan variasi yang berbeda, sehingga menunjukkan adanya perbedaan kondisi antar wilayah dan pentingnya dilakukan analisis lanjutan seperti clustering.
