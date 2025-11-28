@@ -102,29 +102,17 @@ Statistik deskriptif digunakan untuk memberikan gambaran umum mengenai sebaran n
 | **X8**  | 27 |  1.18 |   0.43  |  0.34 |  0.88  |  1.17  |  1.50  |  2.05 |
 | **X9**  | 27 |  0.28 |   0.13  |  0.07 |  0.20  |  0.26  |  0.36  |  0.54 |
 
+#### Matriks Korelasi
+
+Berdasarkan matriks korelasi tersebut dilakukan seleksi variabel pada data. Seleki dilakukan dengan memerhatikan korelasi antar variabel, sehingga yang dibuang adalah variabel X3, X5 dan X9. Variabel yang telah diseleksi yaitu X1, X2, X4, X6, X7, X8 akan digunakan dalam melakukan analisis komponen utama.
+#### Analisis Komponen Utama (PCA)
+Sebelum melakukan reduksi dimensi, terdapat beberapa hal yang harus diperhatikan diantaranya kecukupan data, kelayakan variabel, dan korelasi antar variabel. 
+
 ### B. Metode K-Means
 K-Means adalah metode klasterisasi non-hierarkis yang mengelompokkan data ke dalam K klaster berdasarkan kedekatan jarak terhadap pusat klaster (centroid). Metode ini bertujuan meminimalkan jumlah kuadrat jarak dalam klaster (Within Cluster Sum of Squares/WCSS).
-#### 1. Menstandarisasi Data 
-Data awal distandarisasi menggunakan metode seperti z-score agar setiap variabel berada pada skala yang sama. Hal ini penting karena K-Means berbasis jarak, sehingga variabel berskala besar tidak mendominasi hasil pengelompokan. Standarisasi dilakukan menggunakan metode z-score dengan rumus sebagai berikut:
 
-<div align="center" style="background-color:#0f1419; padding:12px; border-radius:8px; width:45%; margin:auto;">
-  <img src="Image/Rumus_Zscore.png" alt="Rumus Z-Score" style="width:10%; max-width:40px;">
-</div>
-<br>
 
-Tabel berikut menampilkan cuplikan hasil standarisasi untuk beberapa kabupaten/kota:
-
-| Kabupaten/Kota   |   X1  |   X2  |   X3  |   X4  |   X5  |   X6  |   X7  |   X8  |   X9  |
-|------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
-| Bogor            |  0.66 | -0.76 |  0.66 | -0.30 |  0.30 | -1.55 | -0.17 | -0.24 | -0.16 |
-| Sukabumi         |  0.21 |  0.69 | -1.07 |  0.86 | -0.86 |  0.25 | -0.77 | -0.70 | -0.63 |
-| ...              |   ... |   ... |   ... |   ... |   ... |   ... |   ... |   ... |   ... |
-| Kota Tasikmalaya | -0.11 | -0.57 |  0.86 |  1.81 | -1.81 | -1.61 | -0.48 |  0.39 | -0.16 |
-| Kota Banjar      |  0.32 |  0.11 | -0.34 |  1.44 | -1.44 |  0.40 | -1.09 | -0.35 |  0.08 |
-
-#### 2. Mencari PCA
-
-#### 3. Menghitung Jarak Antar Observasi
+#### 1. Menghitung Jarak Antar Observasi
 Menghitung jarak Euclidean (atau jarak lain) antar observasi pada ruang data hasil standarisasi/PCA. Jarak ini digunakan untuk menentukan centroid terdekat pada proses K-Means.
 
 #### 4. Menentukan Cluster Optimal dengan Shiloute
@@ -176,6 +164,7 @@ Menghitung jarak Euclidean (atau jarak lain) antar observasi pada ruang data has
 
 #### 5. Pembentukan Cluster dan Visualisasi Cluster 
 
+####
 
 
 # 🎨 **Visualisasi**
