@@ -183,6 +183,14 @@ Menghitung jarak Euclidean (atau jarak lain) antar observasi pada ruang data has
 ##### 5.4 Boxplot
 ##### 5.5 Heatmap
 
+| K-Means | K-Medoids |
+|---------|-----------|
+| <img src="Image/Peta_K-means.png" width="600"> | <img src="Image/Peta_K-medoids.png" width="600"> |
+
+**Gambar 1. Perbandingan Peta Klasterisasi Tingkat Kemiskinan**
+
+
+
 # 🎨 **Visualisasi**
 <div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
   <img src="Image/k-means_heatmap.jpeg" width="1000" height="500"><br>
