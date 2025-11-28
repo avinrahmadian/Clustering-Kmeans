@@ -44,6 +44,7 @@ Untuk melakukan pengelompokan, dua metode algoritma yang sering digunakan dan me
 </table>
 
 
+
 ### Variabel
 | Kode | Nama Variabel                                                                 |
 |------|-------------------------------------------------------------------------------|
