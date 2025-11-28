@@ -241,8 +241,7 @@ Menghitung jarak Euclidean (atau jarak lain) antar observasi pada ruang data has
  
 
 # 💎 **Manfaat Penelitian**
-
-
+Penelitian ini memberikan gambaran pengelompokan wilayah di Jawa Barat berdasarkan karakteristik kemiskinan. Hasil klasterisasi dapat dimanfaatkan untuk mendukung perencanaan program, pemetaan wilayah prioritas, dan penyusunan strategi penanggulangan kemiskinan yang lebih terarah sesuai kondisi tiap kelompok wilayah.
 
 # 👥 **Tim Penyusun**
 
