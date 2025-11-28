@@ -132,6 +132,11 @@ a. K-Means
   <br>
 </p>
 
+##### 5.2 Radar chart
+##### 5.3 Barplot
+##### 5.4 Boxplot
+##### 5.5 Heatmap
+
 ### C. Metode K-Medoids
 
 #### 1. Menstandarisasi Data 
@@ -173,6 +178,10 @@ Menghitung jarak Euclidean (atau jarak lain) antar observasi pada ruang data has
   <br>
 </p>
 
+##### 5.2 Radar chart
+##### 5.3 Barplot
+##### 5.4 Boxplot
+##### 5.5 Heatmap
 
 # 🎨 **Visualisasi**
 <div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
@@ -235,17 +244,6 @@ Menghitung jarak Euclidean (atau jarak lain) antar observasi pada ruang data has
   <br>
 </p>
 
-### 3. Provinsi 10 tertinggi dan 10 terendah (Covid) (Bar Chart) (Wita)
-### 4. Provinsi 10 tertinggi dan 10 terendah (Pasca Covid) (Bar Chart) (Sisca)
-### 5. Distribusi Data Berdasarkan Cluster Gabungan (Density Plot) (sisca)
-### 6. Distribusi Data Berdasarkan Cluster Covid (Density Plot) (Joy)
-### 7. Distribusi Data Berdasarkan Cluster Pasca Covid (Density Plot) (Wita)
-<div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
-  <img src="Image/density pasca covid.png" width="1000" height="500"><br>
-  <span style="color:white; font-weight:bold; font-size:16px;">Gambar gatau cobain dlu. Density Plot Pasca Covid</span>
-</div>
-  <br>
-</p>
 
 # 💎 **Manfaat Penelitian**
 
