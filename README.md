@@ -186,30 +186,6 @@ Menghitung jarak Euclidean (atau jarak lain) antar observasi pada ruang data has
 
 # 💎 **Manfaat Penelitian (Yasinta)**
 
-🌟 Manfaat Analisis Klasterisasi Angka Kemiskinan
-Proyek ini diharapkan memberikan manfaat yang signifikan bagi berbagai pihak, terutama dalam konteks pengambilan keputusan dan perumusan kebijakan.
-
-1. Manfaat Bagi Pemerintah dan Pembuat Kebijakan (Pusat & Daerah)
-Penyusunan Kebijakan yang Tepat Sasaran (Targeted Policy): Hasil klasterisasi (pengelompokan) provinsi akan mengidentifikasi wilayah mana yang memiliki pola kemiskinan serupa. Ini memungkinkan pemerintah merancang intervensi program (seperti bantuan sosial, pelatihan kerja, atau pembangunan infrastruktur) yang spesifik dan disesuaikan dengan kebutuhan setiap klaster, sehingga meningkatkan efektivitas anggaran.
-
-Alokasi Sumber Daya yang Efisien: Dengan memahami klaster mana yang paling parah atau paling rentan, pemerintah dapat memprioritaskan alokasi dana (misalnya, Dana Transfer Daerah atau Dana Desa) ke wilayah yang benar-benar membutuhkan, menghindari pemborosan sumber daya pada wilayah yang pola kemiskinannya sudah membaik.
-
-Pemantauan dan Evaluasi Kinerja: Klaster yang terbentuk dapat digunakan sebagai tolok ukur (benchmarking). Pemerintah dapat membandingkan kinerja penanggulangan kemiskinan antar provinsi dalam klaster yang sama, untuk mengidentifikasi praktik terbaik (best practices) yang dapat direplikasi.
-
-Perencanaan Pembangunan Regional: Data klasterisasi memberikan panduan bagi Badan Perencanaan Pembangunan Nasional/Daerah (Bappenas/Bappeda) dalam menyusun Rencana Pembangunan Jangka Menengah Daerah (RPJMD) yang lebih kontekstual dan berbasis bukti.
-
-2. Manfaat Bagi Dunia Akademis dan Peneliti
-Pengembangan Ilmu Pengetahuan: Penelitian ini berkontribusi pada penerapan praktis algoritma Machine Learning (K-Means) di bidang sosial ekonomi dan statistik, khususnya di Indonesia.
-
-Dasar Penelitian Lanjutan: Hasil klasterisasi dapat menjadi dasar untuk penelitian lebih lanjut. Peneliti dapat menggunakan klaster yang terbentuk sebagai variabel eksogen untuk menyelidiki faktor-faktor penentu (misalnya, Indeks Pembangunan Manusia, inflasi, atau tingkat pengangguran) yang mendorong provinsi masuk ke dalam klaster kemiskinan tertentu.
-
-Metodologi Baru: Penelitian ini dapat menjadi referensi metodologis bagi peneliti lain yang ingin melakukan analisis komparatif atau klasterisasi pada data pembangunan regional lainnya.
-
-3. Manfaat Bagi Lembaga Non-Pemerintah (LSM dan Donor)
-Fokus Program: Lembaga Swadaya Masyarakat (LSM) dan lembaga donor dapat menggunakan peta klaster ini untuk memfokuskan program bantuan dan pengembangan mereka pada klaster provinsi yang paling membutuhkan dukungan non-pemerintah.
-
-Advokasi yang Lebih Kuat: Data klasterisasi yang dihasilkan memberikan bukti empiris yang kuat untuk mendukung upaya advokasi dalam menuntut kebijakan yang lebih adil dan merata.
-
 
 
 # 👥 **Tim Penyusun**
