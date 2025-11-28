@@ -9,6 +9,15 @@ Proyek ini menganalisis pengelompokan wilayah di Jawa Barat berdasarkan karakter
 
 # 💡 **Latar Belakang (Yasinta)**
 
+Provinsi Jawa Barat merupakan salah satu provinsi dengan jumlah penduduk terpadat dan kontributor Produk Domestik Regional Bruto (PDRB) terbesar di Indonesia. Meskipun menunjukkan pertumbuhan ekonomi yang pesat, isu kemiskinan tetap menjadi masalah struktural yang memerlukan penanganan serius. Data menunjukkan bahwa disparitas kemiskinan antar wilayah (Kabupaten/Kota) di Jawa Barat cukup signifikan, dipengaruhi oleh berbagai faktor mulai dari akses pendidikan, lapangan kerja, infrastruktur, hingga kondisi geografis.
+
+Penanganan kemiskinan yang efektif tidak bisa dilakukan dengan pendekatan one-size-fits-all (satu ukuran untuk semua). Kebijakan pengentasan kemiskinan harus diferensiasi dan spesifik berdasarkan karakteristik dan profil kemiskinan yang unik di setiap wilayah. Hal ini menuntut adanya proses identifikasi dan pengelompokan wilayah yang memiliki profil kemiskinan serupa.
+
+Dalam konteks analisis data pembangunan, teknik pengelompokan data (clustering) menjadi instrumen krusial untuk mengelompokkan data multidimensi (berbagai indikator kemiskinan) menjadi kelompok-kelompok homogen (klaster). Melalui klasterisasi, pemerintah daerah dapat:
+ * Mengenali pola-pola kemiskinan yang serupa di berbagai wilayah.
+ * Memfokuskan sumber daya dan program bantuan pada klaster wilayah yang membutuhkan intervensi    spesifik.
+ * Menetapkan prioritas kebijakan berdasarkan tipe-tipe kemiskinan yang teridentifikasi.
+
 
 # 🎯 **Tujuan Penelitian (Yasinta)**
 
