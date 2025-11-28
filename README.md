@@ -4,8 +4,8 @@
 </p>
 
 # 📖 **Pendahuluan**
+Proyek ini menganalisis **pengelompokan wilayah di Jawa Barat** berdasarkan **indikator kemiskinan** dengan membandingkan metode ***K-Means*** dan ***K-Medoids***. Perbandingan ini dilakukan untuk melihat **perbedaan hasil klaster** dari kedua metode dan **menentukan pendekatan yang lebih sesuai** dalam menggambarkan **pola kemiripan kondisi kemiskinan antar wilayah**.
 
-Proyek ini menganalisis pengelompokan wilayah di Jawa Barat berdasarkan karakteristik kemiskinan dengan membandingkan metode K-Means dan K-Medoids. Perbandingan ini dilakukan untuk melihat perbedaan hasil cluster dari kedua metode dan menentukan pendekatan yang lebih sesuai dalam menggambarkan pola kemiripan kondisi kemiskinan antarwilayah.
 
 # 💡 **Latar Belakang**
 
