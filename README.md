@@ -18,6 +18,11 @@ Dalam konteks analisis data pembangunan, teknik pengelompokan data (clustering) 
  * Memfokuskan sumber daya dan program bantuan pada klaster wilayah yang membutuhkan intervensi    spesifik.
  * Menetapkan prioritas kebijakan berdasarkan tipe-tipe kemiskinan yang teridentifikasi.
 
+Untuk melakukan pengelompokan, dua metode algoritma yang sering digunakan dan menjadi fokus perbandingan adalah K-Means dan K-Medoids (Partitioning Around Medoids - PAM).
+ 1. K-Means: Metode yang populer karena efisiensi komputasi dan kesederhanaannya. Namun, K-       Means menggunakan nilai rata-rata (mean) sebagai pusat klaster (centroid), menjadikannya        rentan terhadap outliers (data pencilan) atau nilai-nilai ekstrem. Data karakteristik           kemiskinan, seperti persentase pengangguran atau rata-rata lama sekolah, seringkali             mengandung outliers yang dapat mendistorsi hasil klasterisasi.
+ 2. K-Medoids (PAM): Metode ini mengatasi kelemahan K-Means dengan menggunakan medoids (titik     data aktual) sebagai pusat klaster, bukan rata-rata. Pendekatan ini membuat K-Medoids lebih     robust terhadap outliers karena pusat klaster tidak ditarik oleh nilai ekstrem.
+
+Tujuan Penelitian
 
 # 🎯 **Tujuan Penelitian (Yasinta)**
 
