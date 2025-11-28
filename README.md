@@ -111,6 +111,16 @@ Data awal distandarisasi menggunakan metode seperti z-score agar setiap variabel
 </div>
 <br>
 
+Tabel berikut menampilkan cuplikan hasil standarisasi untuk beberapa kabupaten/kota:
+
+| Kabupaten/Kota   |   X1  |   X2  |   X3  |   X4  |   X5  |   X6  |   X7  |   X8  |   X9  |
+|------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| Bogor            |  0.66 | -0.76 |  0.66 | -0.30 |  0.30 | -1.55 | -0.17 | -0.24 | -0.16 |
+| Sukabumi         |  0.21 |  0.69 | -1.07 |  0.86 | -0.86 |  0.25 | -0.77 | -0.70 | -0.63 |
+| ...              |   ... |   ... |   ... |   ... |   ... |   ... |   ... |   ... |   ... |
+| Kota Tasikmalaya | -0.11 | -0.57 |  0.86 |  1.81 | -1.81 | -1.61 | -0.48 |  0.39 | -0.16 |
+| Kota Banjar      |  0.32 |  0.11 | -0.34 |  1.44 | -1.44 |  0.40 | -1.09 | -0.35 |  0.08 |
+
 #### 2. Mencari PCA
 #### 3. Menghitung Jarak Antar Observasi
 Menghitung jarak Euclidean (atau jarak lain) antar observasi pada ruang data hasil standarisasi/PCA. Jarak ini digunakan untuk menentukan centroid terdekat pada proses K-Means.
