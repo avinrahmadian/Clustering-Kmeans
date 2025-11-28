@@ -23,10 +23,10 @@ Untuk melakukan pengelompokan, dua metode algoritma yang sering digunakan dan me
  2. K-Medoids (PAM): Metode ini mengatasi kelemahan K-Means dengan menggunakan medoids (titik     data aktual) sebagai pusat klaster, bukan rata-rata. Pendekatan ini membuat K-Medoids lebih     robust terhadap outliers karena pusat klaster tidak ditarik oleh nilai ekstrem.
 
 
-
 # 🎯 **Tujuan Penelitian**
-1️⃣ Melakukan pengelompokan wilayah di Jawa Barat berdasarkan karakteristik kemiskinan menggunakan dua metode klasterisasi yaitu K-Means dan K-Medoids. <br>
+1️⃣ Mengelompokan wilayah di Jawa Barat berdasarkan karakteristik kemiskinan menggunakan metode klasterisasi K-Means dan K-Medoids. <br>
 2️⃣ Menentukan metode yang paling optimal dalam menghasilkan klaster yang representatif sebagai dasar rekomendasi kebijakan. <br>
+
 
 # 📊 **Data dan Variabel**
 
