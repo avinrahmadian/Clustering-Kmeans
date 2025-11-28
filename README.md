@@ -192,11 +192,11 @@ Menghitung jarak Euclidean (atau jarak lain) antar observasi pada ruang data has
 <table style="width:100%">
   <tr>
     <td align="center" width="50%">
-      <img src="Image/Peta_K-means.png" width="100%">
+      <img src="Image/Map_K-means.png" width="100%">
       <br><b>K-Means</b>
     </td>
     <td align="center" width="50%">
-      <img src="Image/Peta_K-medoids.png" width="100%">
+      <img src="Image/Map_K-medoids.png" width="100%">
       <br><b>K-Medoids</b>
     </td>
   </tr>
