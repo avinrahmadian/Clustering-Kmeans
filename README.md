@@ -24,10 +24,10 @@ Untuk melakukan pengelompokan, dua metode algoritma yang sering digunakan dan me
 
 
 # 🎯 **Tujuan Penelitian**
-1️⃣ Mengelompokan wilayah di Jawa Barat berdasarkan karakteristik kemiskinan menggunakan metode klasterisasi K-Means dan K-Medoids. <br>
-2️⃣ Menentukan metode yang paling optimal dalam menghasilkan klaster yang representatif sebagai dasar rekomendasi kebijakan. <br>
+1️⃣ **Mengelompokkan** wilayah di Jawa Barat berdasarkan karakteristik kemiskinan **menggunakan** metode klasterisasi ***K-Means*** dan ***K-Medoids***. <br>
+2️⃣ **Menentukan metode** yang paling **optimal** dalam menghasilkan **klaster** yang representatif sebagai dasar rekomendasi kebijakan. <br>
 
-**Mengelompokkan wilayah di Jawa Barat** berdasarkan **karakteristik kemiskinan** menggunakan metode klasterisasi **K-Means** dan **K-Medoids**.
+
 
 
 
