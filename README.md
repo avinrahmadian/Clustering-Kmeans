@@ -72,7 +72,7 @@ Untuk melakukan pengelompokan, dua metode algoritma yang sering digunakan dan me
 | Kota Banjar      | 40.80 | 32.07 | 27.13 | 69.81 | 30.19 | 95.34 | 87.53 | 1.03 | 0.29 |
 
 
-# ⚙️ **Metodologi**
+# ⚙️ **Metodologi Penelitian**
 1. Jenis dan Pendekatan Penelitian<br>
    Penelitian ini merupakan penelitian kuantitatif eksploratir dengan pendekatan unsupervised learning menggunakan metode clustering. Tujuan utamanya adalah untuk mengelompokkan kabupaten/kota di Provinsi Jawa Barat berdasarkan karakteristik kemiskinan serta membandingkan hasil pengelompokan antara metode K-Means dan K-Medoids
 3. Tahapan Analisis Data <br>
