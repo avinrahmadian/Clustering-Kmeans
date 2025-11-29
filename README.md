@@ -222,30 +222,41 @@ Setelah memperoleh jumlah cluster optimal, dapat dilakukan proses pengelompokkan
 
 
 # 🎨 **Visualisasi Clustering**
-## 1. Peta
+## 1. 🗺️ Peta
 | K-Means | K-Medoids |
 |---------|-----------|
 | <img src="Image/Peta_K-means.png" width="600"> | <img src="Image/Peta_K-medoids.png" width="600"> |
 
-## 2. Barplot
+<table style="width:100%; border-collapse: collapse; text-align:center;">
+  <tr style="background:#E3F2FD; font-weight:bold;">
+    <td>Peta – K-Means</td>
+    <td>Peta – K-Medoids</td>
+  </tr>
+  <tr>
+    <td><img src="Image/Peta_K-means.png" width="500"></td>
+    <td><img src="Image/Peta_K-medoids.png" width="500"></td>
+  </tr>
+</table>
+
+## 2. 📊 Barplot
 | K-Means | K-Medoids |
 |---------|-----------|
 | <img src="Image/barplot k-means.jpg" width="500"> | <img src="Image/barplot k-medoids.jpg" width="500"> |
 
 
-## 3. Radar Chart
+## 3. 🕸️ Radar Chart
 | K-Means | K-Medoids |
 |---------|-----------|
 | <img src="Image/radar k-means.jpg" width="600"> | <img src="Image/Radar Chart K-Medoids.png" width="600"> |
  
 
-## 4. Boxplot
+## 4. 📦 Boxplot
 | K-Means | K-Medoids |
 |---------|-----------|
 | <img src="Image/boxplot k-means.jpg" width="500"> | <img src="Image/Boxplot K-Medoids.png" width="500"> |
 
 
-## 5. Heatmap
+## 5. 🔥 Heatmap
 | K-Means | K-Medoids |
 |---------|-----------|
 | <img src="Image/k-means_heatmap.jpeg" width="500"> | <img src="Image/heatmap k-medoids.jpg" width="500"> |
