@@ -227,16 +227,28 @@ Setelah memperoleh jumlah cluster optimal, dapat dilakukan proses pengelompokkan
 |---------|-----------|
 | <img src="Image/Peta_K-means.png" width="600"> | <img src="Image/Peta_K-medoids.png" width="600"> |
 
-<table style="width:100%; border-collapse: collapse; text-align:center;">
-  <tr style="background:#E3F2FD; font-weight:bold;">
-    <td>Peta – K-Means</td>
-    <td>Peta – K-Medoids</td>
+<table style="
+  width:100%;
+  border-collapse:collapse;
+  text-align:center;
+  font-family:Segoe UI, sans-serif;
+  border:1px solid #f0f0f0;">
+  
+  <tr style="background:#FFE6EB;">
+    <th style="padding:10px;">🗺️ Peta – K-Means</th>
+    <th style="padding:10px;">🗺️ Peta – K-Medoids</th>
   </tr>
-  <tr>
-    <td><img src="Image/Peta_K-means.png" width="500"></td>
-    <td><img src="Image/Peta_K-medoids.png" width="500"></td>
+
+  <tr style="background:#FFF7FA;">
+    <td style="padding:12px;">
+      <img src="Image/Peta_K-means.png" width="480">
+    </td>
+    <td style="padding:12px;">
+      <img src="Image/Peta_K-medoids.png" width="480">
+    </td>
   </tr>
 </table>
+
 
 ## 2. 📊 Barplot
 | K-Means | K-Medoids |
