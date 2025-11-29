@@ -123,8 +123,8 @@ Menghitung jarak Euclidean (atau jarak lain) antar observasi pada ruang data has
 
 #### 4. Menentukan Cluster Optimal dengan Silhouette
 a. K-Means
-<div align="center" style="background-color:#0f1419; padding:12px; border-radius:8px; width:100%; margin:auto;">
-  <img src="Image/shilouette K-means.png" alt="Rumus Z-Score" style="width:90%; max-width:40px;">
+<div align="center" style="background-color:#0f1419; padding:12px; border-radius:8px; width:70%; margin:auto;">
+  <img src="Image/shilouette K-means.png" alt="Cluster Optimal K-Medoids" style="width:50%; max-width:40px;">
 </div>
 <br>
 <div>Penentuan jumlah klaster optimal dilakukan menggunakan metode Silhouette pada skor hasil Analisis Komponen Utama (PCA). Berdasarkan grafik Silhouette, nilai rata-rata tertinggi diperoleh pada k = 4 dengan nilai sekitar 0,48. Hal ini menunjukkan bahwa pembentukan empat klaster memberikan struktur pengelompokan yang cukup baik, dengan tingkat homogenitas dalam klaster yang memadai serta separasi antar klaster yang jelas. Oleh karena itu, analisis klaster selanjutnya dilakukan menggunakan empat klaster.</div>
