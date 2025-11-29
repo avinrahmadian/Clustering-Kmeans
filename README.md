@@ -171,7 +171,7 @@ Penentuan jumlah klaster optimal dilakukan menggunakan metode Silhouette. Beriku
 <br>
 <div> Berdasarkan grafik Silhouette, terlihat bahwa garis putus-putus menunjukkan kelompok optimal dalam melakukan clustering. Kelompok optimal dalam data ini berjumlah empat kelompok dengan nilai silhouette diantara 0.2-0.3 yang menunjukkan bahwa observasi di tiap kelompok cenderung jauh satu sama lain dan dekat dengan observasi dari kelompok lain. Jadi, pengelompokkan dapat dikatakan kurang baik. </div>
 
-#### 5. Pembentukan Cluster
+#### 3. Pembentukan dan Profilisasi Cluster
 Setelah memperoleh jumlah cluster optimal, dapat dilakukan proses pengelompokkan. Berikut hasil plot pengelompokkan kabupaten/kota ke dalam empat cluster.
 <div align="center" style="background-color:#0f1419; padding:12px; border-radius:8px; width:70%; margin:auto;">
   <img src="Image/Cluster Plot K-Medoids.png" alt="Plot Cluster K-Medoids" style="width:50%; max-width:40px;">
@@ -186,19 +186,6 @@ Setelah memperoleh jumlah cluster optimal, dapat dilakukan proses pengelompokkan
 | 3 | Cianjur, Ciamis, Kuningan, Cirebon, Majalengka, Sumedang, Indramayu, Subang, Purwakarta, Karawang | 10 | Kemiskinan Tinggi |
 | 4 | Kota Bekasi, Kota Depok, Kota Cimahi | 3 | Kemiskinan Sedang |
 
-
-##### 5.1 Peta Klasterisasi Tingkat Kemiskinan Kabupaten/Kota di Jawa Barat
-<div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
-  <img src="Image/Peta_K-medoids.png" width="1000" height="500"><br>
-  <span style="color:white; font-weight:bold; font-size:16px;">Gambar 1. Peta Klasterisasi Pra & Pandemi Covid-19</span>
-</div>
-  <br>
-</p>
-
-##### 5.2 Radar chart
-##### 5.3 Barplot
-##### 5.4 Boxplot
-##### 5.5 Heatmap
 
 | K-Means | K-Medoids |
 |---------|-----------|
@@ -234,7 +221,12 @@ Setelah memperoleh jumlah cluster optimal, dapat dilakukan proses pengelompokkan
 
 
 
-# 🎨 **Visualisasi**
+# 🎨 **Visualisasi Clustering**
+## 1. Peta
+| K-Means | K-Medoids |
+|---------|-----------|
+| <img src="Image/Peta_K-means.png" width="600"> | <img src="Image/Peta_K-medoids.png" width="600"> |
+
 <div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
   <img src="Image/k-means_heatmap.jpeg" width="1000" height="500"><br>
   <span style="color:white; font-weight:bold; font-size:16px;">Gambar 1. Peta Klasterisasi Pra & Pandemi Covid-19</span>
@@ -242,6 +234,53 @@ Setelah memperoleh jumlah cluster optimal, dapat dilakukan proses pengelompokkan
   <br>
 </p>
 
+## 2. Barplot
+| K-Means | K-Medoids |
+|---------|-----------|
+| <img src="Image/Peta_K-means.png" width="600"> | <img src="Image/Peta_K-medoids.png" width="600"> |
+
+<div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
+  <img src="Image/k-means_heatmap.jpeg" width="1000" height="500"><br>
+  <span style="color:white; font-weight:bold; font-size:16px;">Gambar 1. Peta Klasterisasi Pra & Pandemi Covid-19</span>
+</div>
+  <br>
+</p>
+
+## 3. Radar Chart
+| K-Means | K-Medoids |
+|---------|-----------|
+| <img src="Image/k-means_radar.jpeg" width="600"> | <img src="Image/Radar Chart K-Medoids.png" width="600"> |
+ 
+<div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
+  <img src="Image/k-means_heatmap.jpeg" width="1000" height="500"><br>
+  <span style="color:white; font-weight:bold; font-size:16px;">Gambar 1. Peta Klasterisasi Pra & Pandemi Covid-19</span>
+</div>
+  <br>
+</p>
+
+## 4. Boxplot
+| K-Means | K-Medoids |
+|---------|-----------|
+| <img src="Image/Peta_K-means.png" width="600"> | <img src="Image/Peta_K-medoids.png" width="600"> |
+
+<div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
+  <img src="Image/k-means_heatmap.jpeg" width="1000" height="500"><br>
+  <span style="color:white; font-weight:bold; font-size:16px;">Gambar 1. Peta Klasterisasi Pra & Pandemi Covid-19</span>
+</div>
+  <br>
+</p>
+
+## 5. Heatmap
+| K-Means | K-Medoids |
+|---------|-----------|
+| <img src="Image/Peta_K-means.png" width="600"> | <img src="Image/Peta_K-medoids.png" width="600"> |
+
+<div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
+  <img src="Image/k-means_heatmap.jpeg" width="1000" height="500"><br>
+  <span style="color:white; font-weight:bold; font-size:16px;">Gambar 1. Peta Klasterisasi Pra & Pandemi Covid-19</span>
+</div>
+  <br>
+</p>
 
 <div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
   <img src="Image/k-means_bloxpot.jpeg" width="1000" height="500"><br>
