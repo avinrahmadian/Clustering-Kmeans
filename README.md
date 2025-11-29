@@ -129,19 +129,6 @@ a. K-Means
 <br>
 <div>Penentuan jumlah klaster optimal dilakukan menggunakan metode Silhouette pada skor hasil Analisis Komponen Utama (PCA). Berdasarkan grafik Silhouette, nilai rata-rata tertinggi diperoleh pada k = 4 dengan nilai sekitar 0,48. Hal ini menunjukkan bahwa pembentukan empat klaster memberikan struktur pengelompokan yang cukup baik, dengan tingkat homogenitas dalam klaster yang memadai serta separasi antar klaster yang jelas. Oleh karena itu, analisis klaster selanjutnya dilakukan menggunakan empat klaster.</div>
 
-#### 5. Pembentukan Cluster dan Visualisasi Cluster 
-##### 5.1 Peta Klasterisasi Tingkat Kemiskinan Kabupaten/Kota di Jawa Barat
-<div align="center" style="background-color:#0f1419; padding:16px; border-radius:8px;">
-  <img src="Image/Peta_K-means.png" width="1000" height="500"><br>
-  <span style="color:white; font-weight:bold; font-size:16px;">Gambar 1. Peta Klasterisasi Pra & Pandemi Covid-19</span>
-</div>
-  <br>
-</p>
-
-##### 5.2 Radar chart
-##### 5.3 Barplot
-##### 5.4 Boxplot
-##### 5.5 Heatmap
 
 ### C. Metode K-Medoids
 Algoritma K-Medoids, yang juga dikenal sebagai Partitioning Around Medoids (PAM), merupakan variasi dari metode K-Means. Berbeda dengan K-Means yang menggunakan nilai rata-rata (mean) sebagai pusat klaster, K-Medoids memilih titik data asli sebagai pusat klaster sehingga lebih tahan terhadap outlier dan mengurangi pengaruh nilai ekstrem pada proses pengelompokan (Supriyadi et al., 2021).
