@@ -178,6 +178,7 @@ Setelah memperoleh jumlah cluster optimal, dapat dilakukan proses pengelompokkan
 </div>
 <br>
 <div> Plot K-Medoids di atas menampilkan posisi Kabupaten/Kota dalam dua dimensi hasil pemetaan jarak, di mana sumbu X (Dim1) dan sumbu Y (Dim2) merepresentasikan dua dimensi utama dari jarak Euclidean setelah data distandarisasi, titik berwarna menunjukkan cluster masing-masing daerah, dan poligon menggambarkan sebaran objek dalam setiap cluster. Tabel anggota tiap kelompok disajikan dalam tabel berikut.
+
 | Kelompok | Kabupaten/Kota | Jumlah Anggota | Keterangan |
 |----------|-----------------|----------------|------------|
 | 1 | Bogor, Bandung, Bekasi, Bandung Barat, Kota Bogor, Kota Sukabumi, Kota Bandung, Kota Cirebon, Kota Tasikmalaya | 9 | Kemiskinan Sedang |
