@@ -227,27 +227,17 @@ Setelah memperoleh jumlah cluster optimal, dapat dilakukan proses pengelompokkan
 |---------|-----------|
 | <img src="Image/Peta_K-means.png" width="600"> | <img src="Image/Peta_K-medoids.png" width="600"> |
 
-<table style="
-  width:100%;
-  border-collapse:collapse;
-  text-align:center;
-  font-family:Segoe UI, sans-serif;
-  border:1px solid #f0f0f0;">
-  
-  <tr style="background:#FFE6EB;">
-    <th style="padding:10px;">🗺️ Peta – K-Means</th>
-    <th style="padding:10px;">🗺️ Peta – K-Medoids</th>
+<table align="center">
+  <tr>
+    <th>🗺️ <br> <b>Peta – K-Means</b></th>
+    <th>🗺️ <br> <b>Peta – K-Medoids</b></th>
   </tr>
-
-  <tr style="background:#FFF7FA;">
-    <td style="padding:12px;">
-      <img src="Image/Peta_K-means.png" width="480">
-    </td>
-    <td style="padding:12px;">
-      <img src="Image/Peta_K-medoids.png" width="480">
-    </td>
+  <tr>
+    <td><img src="Image/Peta_K-means.png" width="450"></td>
+    <td><img src="Image/Peta_K-medoids.png" width="450"></td>
   </tr>
 </table>
+
 
 
 ## 2. 📊 Barplot
@@ -255,25 +245,67 @@ Setelah memperoleh jumlah cluster optimal, dapat dilakukan proses pengelompokkan
 |---------|-----------|
 | <img src="Image/barplot k-means.jpg" width="500"> | <img src="Image/barplot k-medoids.jpg" width="500"> |
 
+<table align="center">
+  <tr>
+    <th>📊 <br> <b>Barplot – K-Means</b></th>
+    <th>📊 <br> <b>Barplot – K-Medoids</b></th>
+  </tr>
+  <tr>
+    <td><img src="Image/barplot k-means.jpg" width="420"></td>
+    <td><img src="Image/barplot k-medoids.jpg" width="420"></td>
+  </tr>
+</table>
+
 
 ## 3. 🕸️ Radar Chart
 | K-Means | K-Medoids |
 |---------|-----------|
 | <img src="Image/radar k-means.jpg" width="600"> | <img src="Image/Radar Chart K-Medoids.png" width="600"> |
  
+<table align="center">
+  <tr>
+    <th>🕸️ <br> <b>Radar – K-Means</b></th>
+    <th>🕸️ <br> <b>Radar – K-Medoids</b></th>
+  </tr>
+  <tr>
+    <td><img src="Image/radar k-means.jpg" width="450"></td>
+    <td><img src="Image/Radar Chart K-Medoids.png" width="450"></td>
+  </tr>
+</table>
+
 
 ## 4. 📦 Boxplot
 | K-Means | K-Medoids |
 |---------|-----------|
 | <img src="Image/boxplot k-means.jpg" width="500"> | <img src="Image/Boxplot K-Medoids.png" width="500"> |
 
+<table align="center">
+  <tr>
+    <th>📦 <br> <b>Boxplot – K-Means</b></th>
+    <th>📦 <br> <b>Boxplot – K-Medoids</b></th>
+  </tr>
+  <tr>
+    <td><img src="Image/boxplot k-means.jpg" width="450"></td>
+    <td><img src="Image/Boxplot K-Medoids.png" width="450"></td>
+  </tr>
+</table>
 
 ## 5. 🔥 Heatmap
 | K-Means | K-Medoids |
 |---------|-----------|
 | <img src="Image/k-means_heatmap.jpeg" width="500"> | <img src="Image/heatmap k-medoids.jpg" width="500"> |
 
- 
+ <table align="center">
+  <tr>
+    <th>🔥 <br> <b>Heatmap – K-Means</b></th>
+    <th>🔥 <br> <b>Heatmap – K-Medoids</b></th>
+  </tr>
+  <tr>
+    <td><img src="Image/k-means_heatmap.jpeg" width="450"></td>
+    <td><img src="Image/heatmap k-medoids.jpg" width="450"></td>
+  </tr>
+</table>
+
 
 # 💎 **Manfaat Penelitian**
 Penelitian ini memberikan gambaran **pengelompokan wilayah di Jawa Barat** berdasarkan **karakteristik kemiskinan**. Hasil penelitian menunjukkan bahwa ***K-Means*** **lebih optimal** dalam membentuk klaster yang representatif. Informasi tersebut dapat digunakan untuk mendukung penyusunan **strategi penanggulangan kemiskinan yang tepat sasaran** sesuai kondisi setiap klaster wilayah.
