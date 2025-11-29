@@ -166,7 +166,7 @@ Tabel berikut menampilkan cuplikan hasil standarisasi untuk beberapa kabupaten/k
 #### 2. Cluster Optimal dengan Silhouette
 Penentuan jumlah klaster optimal dilakukan menggunakan metode Silhouette. Berikut merupakan grafik penentuan jumlah kelompok dengan metode silhouette. 
 <div align="center" style="background-color:#0f1419; padding:12px; border-radius:8px; width:70%; margin:auto;">
-  <img src="Image/Jumlah Cluster K-Medoids.png" alt="Cluster Optimal K-Medoids" style="width:30%; max-width:40px;">
+  <img src="Image/Jumlah Cluster K-Medoids.png" alt="Cluster Optimal K-Medoids" style="width:50%; max-width:40px;">
 </div>
 <br>
 <div> Berdasarkan grafik Silhouette, terlihat bahwa garis putus-putus menunjukkan kelompok optimal dalam melakukan clustering. Kelompok optimal dalam data ini berjumlah empat kelompok dengan nilai silhouette diantara 0.2-0.3 yang menunjukkan bahwa observasi di tiap kelompok cenderung jauh satu sama lain dan dekat dengan observasi dari kelompok lain. Jadi, pengelompokkan dapat dikatakan kurang baik. </div>
